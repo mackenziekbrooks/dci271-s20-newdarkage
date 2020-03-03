@@ -35,7 +35,7 @@ prose:
   rooturl: posts
   metadata:
     _posts/deadtech:
-      - name: "tag"
+      - name: "tags"
         field:
           element: "visible"
           value: "deadtech"
