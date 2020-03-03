@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dead Tech 
-has_children: true
 nav_order: 4
 ---
 
@@ -10,8 +9,8 @@ nav_order: 4
           <article class="archive-wrap">
               <ol class="post-list">
                  <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
-                  {% for post in site.posts %}
-                  {% if post.tags == 'deadtech' %}
+                  {% assign deadposts = site.posts | where:"tags","deadtech" %}
+                  {% for post in deadposts %}            
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -19,7 +18,6 @@ nav_order: 4
                         <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
                     </div>
                   </li>
-                  {% endif %}
                   {% endfor %}
               </ol>
           </article>
