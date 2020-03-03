@@ -31,6 +31,20 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
+prose:
+  rooturl: posts
+  metadata:
+    _posts/deadtech:
+      - name: "tag"
+        field:
+          element: "visible"
+          value: "deadtech"
+      - name: "title"
+      field:
+        element: "text"
+        label: "title"
+  siteurl: "https://mackenziekbrooks.github.io/dci271-s20-newdarkage/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
