@@ -49,10 +49,12 @@ prose:
         field:
           element: "visible"
           label: "title"
+          value: ""
       - name: "author"
         field:
           element: "visible"
           label: "author"
+          value: "Me"
       - name: "layout"
         field:
           element: "hidden"
@@ -61,6 +63,7 @@ prose:
       - name: "tags"
         field:
           element: "visible"
+          label: "tags"
           value: "deadtech"
 
 
