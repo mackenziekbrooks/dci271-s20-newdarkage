@@ -32,6 +32,13 @@ plugins:
   - jekyll-feed
 
 prose:
+  metadata:
+    _posts:
+      - name: "tags"
+        field:
+          element: "visible"
+          label: "tags"
+          value: "deadtech"
   rooturl: _posts
   ignore:
     - index.md
@@ -43,29 +50,6 @@ prose:
     - course-info.md
   siteurl: "https://mackenziekbrooks.github.io/dci271-s20-newdarkage"
   media: assets/images
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "visible"
-          label: "title"
-          value: ""
-      - name: "author"
-        field:
-          element: "visible"
-          label: "author"
-          value: "Me"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-    _posts/deadtech:
-      - name: "tags"
-        field:
-          element: "visible"
-          label: "tags"
-          value: "deadtech"
-
 
 
 # Exclude from processing.
