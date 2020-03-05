@@ -34,11 +34,11 @@ plugins:
 prose:
   metadata:
     _posts:
-      - name: "tags"
+      - name: tags
         field:
-          element: "visible"
-          label: "tags"
-          value: "deadtech"
+          element: visible
+          label: tags
+          value: deadtech
   rooturl: _posts
   ignore:
     - index.md
