@@ -13,7 +13,7 @@ nav_order: 4
                   {% for post in deadposts %}            
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                        <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }} - {{ post.author }}</a></h2>
+                        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.author }}</a></h2>
                         <p class="date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time></p>
                         <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | truncate: 120 }}{% endif %}</p>
                     </div>

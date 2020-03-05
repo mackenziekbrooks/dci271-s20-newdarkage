@@ -45,19 +45,23 @@ prose:
   media: assets/images
   metadata:
     _posts:
-      - name: "tags"
-        field:
-          element: "visible"
-          value: "deadtech"
       - name: "title"
         field:
-          element: "text"
+          element: "visible"
           label: "title"
+      - name: "author"
+        field:
+          element: "visible"
+          label: "author"
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
-  
+    _posts/deadtech:
+      - name: "tags"
+        field:
+          element: "visible"
+          value: "deadtech"
 
 
 
