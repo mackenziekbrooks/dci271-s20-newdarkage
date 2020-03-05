@@ -33,17 +33,33 @@ plugins:
 
 prose:
   rooturl: _posts
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - assignments.md
+    - schedule.md
+    - course-info.md
+  siteurl: "https://mackenziekbrooks.github.io/dci271-s20-newdarkage"
+  media: assets/images
   metadata:
-    _posts/deadtech:
+    _posts:
       - name: "tags"
         field:
           element: "visible"
           value: "deadtech"
       - name: "title"
         field:
-        element: "text"
-        label: "title"
-  siteurl: "https://mackenziekbrooks.github.io/dci271-s20-newdarkage/"
+          element: "text"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+  
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
