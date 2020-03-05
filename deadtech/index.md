@@ -7,8 +7,8 @@ nav_order: 4
    <div id='bump'>
         <section class="article archive">
           <article class="archive-wrap">
-              <ul class="post-list">
-                 <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
+              <ul class="nobullet">
+                 <lh><h1>Dead Tech Essays</h1></lh>
                   {% assign deadposts = site.posts | where:"tags","deadtech" %}
                   {% for post in deadposts %}            
                   <li>
