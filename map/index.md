@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Dead Tech 
-nav_order: 5
+title: Map
+nav_order: 6
 ---
+
+<iframe src="https://www.google.com/maps/d/embed?mid=14CyTp1hDCnNs7VJ-riSVpXYcY_Wy46KT" width="840" height="680"></iframe>
 
    <div id='bump'>
         <section class="article archive">
           <article class="archive-wrap">
               <ul class="nobullet">
                  <lh><h1>Dead Tech Essays</h1></lh>
-                  {% assign deadposts = site.posts | where:"tags","deadtech" %}
-                  {% for post in deadposts %}            
+                  {% assign mapposts = site.posts | where:"tags","map" %}
+                  {% for post in mapposts %}            
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.author }}</a></h2>

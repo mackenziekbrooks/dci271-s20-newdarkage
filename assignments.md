@@ -6,7 +6,20 @@ nav_order: 2
 
 # Assignment #1: Dead Tech 
 
-In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths –this is your chance to find out! Your findings will be compiled in a 1000 word essay, to be published on our course website. You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. We will hold a research workshop during the first week of class to identify potential topics and sources. 
+In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Your findings will be compiled in a 1000 word essay, to be published on our course website. You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. We will hold a research workshop during the first week of class to identify potential topics and sources. 
+
+## Specs:
+* You will write a 
+
+
+|Rubric|Points|
+|--|--|
+|Writing|5|
+|Level of research|5|
+|Use of media|5 | 
+|Total|	20|
+
+
 
 # Assignment #2: Hidden Systems in the Landscape
 

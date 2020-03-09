@@ -1,0 +1,1 @@
+pandoc -t revealjs -s -o dh102-f17-day1.html dh102-f17-day1.md -V theme=white

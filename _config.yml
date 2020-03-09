@@ -48,6 +48,7 @@ prose:
     - assignments.md
     - schedule.md
     - course-info.md
+    - /slides
   siteurl: "https://mackenziekbrooks.github.io/dci271-s20-newdarkage"
   media: assets/images
 

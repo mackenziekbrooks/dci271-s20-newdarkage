@@ -4,6 +4,17 @@ title: Course Info
 nav_order: 1
 ---
 
+
+# Meeting Time & Place
+MTWR 1:30p-3:45p 
+Room: 
+
+# Contact
+
+Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/her/hers)
+
+brooksm@wlu.edu // 540-458-8659 // Leyburn 218
+
 # Course Description
 
 Are we living in a "New Dark Age?” Artist and writer James Bridle argues that the abundance of information intended to enlighten the world has, in practice, darkened it. This course will take a big picture look at the interconnected impact of technology on the world around us. Is it enough to learn to code or think computationally? Are we simply at the mercy of unstable and inevitable technological progress? How can we think and act with justice and agency in a world where there is too much to know? How can we uncover the hidden material traces of technology in our surroundings? Through research, hands-on assignments, and local trips, we will seek to understand what has led to our present technological moment and where we can go from here. We will cover topics such as climate change, e-waste, big data, algorithmic bias, and automation. Our goal will be to create new metaphors for understanding the systems around us. 
@@ -41,3 +52,7 @@ If you have already been approved for accommodations, please meet with me within
 
 ## Plagiarism
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
+
+## License
+~[creative commons license cc-by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
