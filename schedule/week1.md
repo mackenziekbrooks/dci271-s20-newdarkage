@@ -13,7 +13,7 @@ nav_order: 1
 * Course overview 
 * Course website access 
 * How to read for this course
-* [Slides](/slides/day1.html)
+* [Slides](../slides/day1.html)
 
 **Read for Tuesday**
 * *New Dark Age*, chap 1
