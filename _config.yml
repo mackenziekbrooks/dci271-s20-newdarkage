@@ -56,7 +56,8 @@ prose:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - slides
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

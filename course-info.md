@@ -38,7 +38,7 @@ Are we living in a "New Dark Age?” Artist and writer James Bridle argues that 
 
 
 # Required Text
-Purchase: New Dark Age by James Bridle. All other readings will be available online or through library subscriptions.
+Purchase: *New Dark Age* by James Bridle. All other readings will be available online or through library subscriptions.
 
 # Policies 
 
@@ -54,5 +54,6 @@ If you have already been approved for accommodations, please meet with me within
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
 
 ## License
-~[creative commons license cc-by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![creative commons license cc-by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

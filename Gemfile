@@ -35,3 +35,6 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "just-the-docs"
 
 gem "github-pages", "~> 203", group: :jekyll_plugins
+
+gem "nokogiri", ">= 1.10.8"
+
