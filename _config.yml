@@ -14,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DCI 271 New Dark Age
-email: your-email@example.com
+email: brooksm@wlu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Are we living in a "New Dark Age?” Artist and writer James Bridle argues that the abundance of information intended to enlighten the world has, in practice, darkened it. This course will take a big picture look at the interconnected impact of technology on the world around us. Is it enough to learn to code or think computationally? Are we simply at the mercy of unstable and inevitable technological progress? How can we think and act with justice and agency in a world where there is too much to know? How can we uncover the hidden material traces of technology in our surroundings? Through research, hands-on assignments, and local trips, we will seek to understand what has led to our present technological moment and where we can go from here. We will cover topics such as climate change, e-waste, big data, algorithmic bias, and automation. Our goal will be to create new metaphors for understanding the systems around us. 
 baseurl: "/dci271-s20-newdarkage" # the subpath of your site, e.g. /blog
 url: "https://mackenziekbrooks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  mackenziekbrooks
 color_scheme: dark
 
