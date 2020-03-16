@@ -6,24 +6,37 @@ nav_order: 2
 
 # Assignment #1: Dead Tech 
 
-In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Your findings will be compiled in a 1000 word essay, to be published on our course website. You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. We will hold  research workshops during the first week of class to identify potential topics and sources. 
+In order to understand our present, let’s look back at the tech that has shaped our past. In this assignment, you’ll assume the role of a media archaeologist. You will select a single piece of technology and research its creation, impact, and decline. Maybe you’ve heard jokes about Betamax or wondered what happened to all the phone booths – this is your chance to find out! Your findings will be compiled in a 1000 word essay, to be published on our [course website](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/deadtech/). You are encouraged to use images and video to illustrate your essay. This is a research-intensive assignment – you will be required to find, use, and assess 5-7 sources. We will hold research workshops during the first week of class to identify potential topics and sources. 
 
 ## Specs:
-* 
+* This is a short research essay: 1000 words with 5-7 sources. It does not need to be fully argument-driven, but I encourage you to include your own conclusions about the forces at work in the lifecycle of your topic. 
+* In addition to your essay, you will turn in a brief annotated bibliography. Your bibliography should use a citation standard (MLA, Chicago, etc), but I'm not picky about which one. 
+* Your essay will be posted on the course website using these [instructions](). 
+* Turn in a link to your essay on Canvas for feedback. 
+
+## Process
+* Tuesday 4/28: assignment introduction
+* Wednesday 4/29: topic brainstorming and approval
+* Thursday 4/30: research workshop
+* **Monday 5/4: assignment due at class time**
+* Monday 5/4: short presentations on topic
 
 
 |Rubric|Points|
 |--|--|
-|Writing - Your writing should be clear, |5|
-|Level of research|5|
-|Use of media|5 | 
+|Writing <br /> Your writing should be clear, concise, well-structured, and full of curiosity. |5|
+|Use of media <br />You are encouraged to include photos (your own or others' with attribution), audio, or video.|5 | 
+|Level of research <br /> You should cast a wide net with your sources. Include peer-reviewed resources, but also "grey literature" or popular sources. A manual? An old commercial on Youtube?   |5|
+|Annotated bibliography <br /> For each source in your essay, include a 2+ sentence annotation. One sentence should summarize the resource. Another sentence should analyze the resource - why is it useful? Why not? Who created it? Who is the audience? |5|
 |Total|	20|
 
 
 
 # Assignment #2: Hidden Systems in the Landscape
 
-In chapter 5, Bridle writes about psychogeography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 2, you will identify a site of material technology in the landscape and document it for the course website. We’ll place each site on a map so we can see the fuller picture of our local infrastructure. Your documentation should include photos, video, and 500-800 words that address the following questions: What made you notice this site? Why did you select it? What’s happening? Who owns the land and who is being serviced? Who is benefitting and who is not? How can you find out more information about this site? What can’t you find and why? 
+In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 2, you will identify a site of material technology in the landscape and document it for the course website. We’ll place each site on a map so we can see the fuller picture of our local infrastructure. Your documentation should include photos, video, and 500-800 words that address the following questions: What made you notice this site? Why did you select it? What’s happening? Who owns the land and who is being serviced? Who is benefiting and who is not? How can you find out more information about this site? What can’t you find and why? 
+
+
 
 # Assignment #3: Discussion Leader
 
