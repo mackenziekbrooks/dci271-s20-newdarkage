@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources 
-nav_order: 3
+nav_order: 4
 ---
 
 This is a research-intensive course. To help you get started, I'm sharing the books, articles, and websites that I have found useful while putting this course together.  

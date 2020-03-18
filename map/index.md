@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Map
-nav_order: 6
+nav_order: 7
 ---
 
 <iframe src="https://www.google.com/maps/d/embed?mid=14CyTp1hDCnNs7VJ-riSVpXYcY_Wy46KT" width="840" height="680"></iframe>
