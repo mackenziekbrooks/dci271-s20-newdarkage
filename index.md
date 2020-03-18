@@ -4,7 +4,7 @@ title: Course Info
 nav_order: 1
 ---
 
-[Virtual Instruction Resources](virtual.md){: .btn .btn-green }
+[Virtual Instruction Resources](virtual.md){: .btn .btn-outline }
 
 
 # Course Description

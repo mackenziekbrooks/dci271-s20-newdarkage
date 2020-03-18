@@ -8,9 +8,9 @@ nav_order: 5
 
 ## Welcome
 
-Well here we are! I recognize that this is not the optimal way to experience spring term. As your instructor, I had hopes and dreams for what this class could create in an on-campus environment. But I am committed to making a virtual classroom that is supportive and generative. Plus, this is a class about technology! We'll have plenty to talk about. 
+Well here we are! I recognize that this is not the optimal way to experience spring term. As your instructor, I had hopes and dreams for what this class could create in an on-campus environment. But I am committed to making a virtual classroom that is supportive and generative. Plus, this is a class about technology! We'll have plenty to talk about as we use technology to talk about technology (so meta!).
 
-I also recognize that the distractions you'll face during this term may be different than normal. Please prioritize your own mental health and safety. I have altered this course to accommodate the variety of lives you are now living, but please get in touch with any concerns you may have. Take time to go outside, talk to friends and family, exercise, work on art or a hobby. Relatedly, some of the course content can get heavy (climate change etc.). It is okay to step away and take a break - I definitely have while preparing. I hope we can use this course as an opportunity to develop personal and collective tools for perpetuating hope and action, not just doom and gloom. Fundamentally, this course is about technology literacy in order to make informed choices. 
+I also recognize that the distractions you'll face during this term may be different than normal. Please prioritize your own mental/physical health and safety. I have altered this course to accommodate the various lives you are now living, but please get in touch with any concerns you may have. Take time to go outside, talk to friends and family, exercise, work on art or a hobby. Relatedly, some of the course content can get heavy (climate change etc.). It is okay to step away and take a break - I definitely have while preparing. I hope we can use this course as an opportunity to develop personal and collective tools for perpetuating hope and action, not just doom and gloom. Fundamentally, this course is about technology literacy in order to make informed choices. 
 
 ## Protocols
 
@@ -18,10 +18,10 @@ In order to build a classroom community in a variety of ways across time and spa
 
 |Tool|Use|
 |---|---|
-|[Course Website ](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/) |All syllabus, schedule, and assignment info lives here. You will post some assignments here as well (instructions below).|
+|Course Website |All syllabus, schedule, and assignment info lives here. You will post some assignments here as well (instructions below).|
 |Canvas|Assignment delivery, feedback, and grades.|
 |Zoom|Live course meetings + discussion. Any lectures will be recorded so they can accessed later.|
-|Slack|Announcements + discussion + general chatter. This is the place for the questions you'd ask after class or the videos we might play during class. We'll have daily icebreakers to get to know each other. We can run discussion here and I'll be available for office hours. I recommend downloading the app to your computer or phone and adjusting your notifications [settings](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).|
+|Slack|Announcements + discussion + general chatter. This is the place for the questions you'd ask after class or to share videos we might play during class. We'll have daily icebreakers to get to know each other. We can run discussion here and I'll be available for office hours. I recommend downloading the app to your computer or phone and adjusting your notifications [settings](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).|
 
 ## How to post to the course website
 
