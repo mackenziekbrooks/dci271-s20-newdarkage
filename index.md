@@ -4,7 +4,7 @@ title: Course Info
 nav_order: 1
 ---
 
-[Virtual Instruction Resources](virtual.md){: .btn .btn-outline }
+[Virtual Instruction Resources](virtual.md){: .btn .btn-purple }
 
 
 # Course Description
@@ -13,9 +13,8 @@ Are we living in a "New Dark Age?” Artist and writer James Bridle argues that 
 
 # Contact
 
-Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/her/hers)
-
-brooksm@wlu.edu // 540-458-8659 // Leyburn 218
+Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/her/hers) // brooksm [at]
+wlu.edu
 
 # Learning Objectives 
 * Students will research historical and modern technological systems 

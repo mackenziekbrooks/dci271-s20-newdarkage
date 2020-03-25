@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: default
 title: The Card Catalog
 author: Mackenzie Brooks
 tags: deadtech
@@ -8,3 +8,4 @@ tags: deadtech
 
 # The Card Catalog
 
+Sample text. 

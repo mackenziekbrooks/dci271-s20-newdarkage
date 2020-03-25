@@ -12,7 +12,18 @@ Zotero Library
 
 
 ## Websites 
+* [Federal Communications Commission](fcc.gov) - Check out the [maps](https://www.fcc.gov/reports-research/maps/)!
+* 
 
-### Technology News
+## Technology News
 * [Ars Technica](https://arstechnica.com/)
 * [Wired](https://www.wired.com/)
+* [Recode by Vox](https://www.vox.com/recode)
+* 
+
+
+## Media
+* Citizenfour or Snowden
+* Lo and Behold, Reveries of the Connected World
+* Halt and Catch Fire 
+* 
