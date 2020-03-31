@@ -13,7 +13,7 @@ Zotero Library
 
 ## Websites 
 * [Federal Communications Commission](fcc.gov) - Check out the [maps](https://www.fcc.gov/reports-research/maps/)!
-* 
+* [Computer History Museum](https://www.computerhistory.org/)
 
 ## Technology News
 * [Ars Technica](https://arstechnica.com/)
@@ -26,4 +26,4 @@ Zotero Library
 * Citizenfour or Snowden
 * Lo and Behold, Reveries of the Connected World
 * Halt and Catch Fire 
-* 
+* The Great Hack
