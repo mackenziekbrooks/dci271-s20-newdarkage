@@ -32,7 +32,7 @@ In order to understand our present, let’s look back at the tech that has shape
 
 
 
-# Assignment #2: Hidden Systems in the Landscape
+# Assignment #2: Mapping the Hidden Systems in the Landscape
 
 In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 2, you will identify a site of material technology in the landscape and document it for the course website. We’ll place each site on a [map](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/) so we can see the fuller picture of our local infrastructure. Your documentation should include photos, video, and 500-800 words that address the following questions: What made you notice this site? Why did you select it? What’s happening? Who owns the land and who is being serviced? Who is benefiting and who is not? How can you find out more information about this site? What can’t you find and why? 
 
