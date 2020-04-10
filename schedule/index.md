@@ -2,13 +2,11 @@
 layout: default
 title: Schedule
 nav_order: 3
-has_children: true
-has_toc: true
 ---
 
 # Schedule 
 
-Jump to: <a href="#week-1--chasm--computation">Week 1</a> // <a href="#week2-computation">Week 2</a> // Week 3 // Week 4
+Jump to: <a href="#week-1--chasm--computation">Week 1</a> // <a href="#week2-computation">Week 2</a> // <a href="#week-3---climate--complexity">Week 3</a> // <a href="#week-4--cloud">Week 4</a>
 
 Legend: 
 
@@ -80,7 +78,8 @@ In discussion-based classes, I like to have students come up with a class charte
 
 Read/Watch
 {: .label .label-green }
-* Start reading *New Dark Age* chapter 2
+* Start reading *New Dark Age* chapter 2. 
+* Read [The Digital Cloud and the Micropolitics of Energy](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12srbpt/duke10.1215%252F08992363-2392093) over the weekend.
 * Watch Assignment #1 Dead Tech intro video. Start brainstorming ideas for this project. 
 
 Participate 
@@ -112,6 +111,8 @@ Do some serious brainstorming for Assignment #1! A full draft will be due Friday
 Read/Watch
 {: .label .label-green }
 * Canvas: watch How to Research video. 
+* Canvas: Chapter 2 lecture part 2
+* [*Code/Space* chapter 1](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=7850&fn=9780262042482_sch_0001.pdf)
 
 Participate 
 {: .label .label-yellow }
@@ -121,7 +122,7 @@ Participate
 ## Wednesday, May 6
 Read/Watch
 {: .label .label-green }
-* Canvas: Chapter 2 lecture part 2
+* *New Dark Age* chapter 6
 
 Participate 
 {: .label .label-yellow }
@@ -145,7 +146,7 @@ Read/Watch
 
 Due
 {: .label .label-red }
-* Canvas: [Assignment #1 Dead Tech](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/assignments.html#assignment-1-dead-tech) draft due Friday at 12pm EST. Post your essay to the course website, then turn in the link on Canvas. 
+* Canvas: [Assignment #1 Dead Tech](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/assignments.html#assignment-1-dead-tech) draft due Friday at 5pm EST. Post your essay to the course website, then turn in the link on Canvas. 
 * Before Monday at 9am EST, review the drafts of two classmates (go to the people section of Canvas and find the names of the classmate directly before and after you) Send your feedback to them via Slack. Address the following: 
 	* What did you learn? How did this essay make you think differently about the topic?
 	* What questions do you still have? 
@@ -157,16 +158,19 @@ Due
 Due
 {: .label .label-red }
 * Take any feedback from your classmates that is useful and update your Dead Tech essay. Essays should be done by 5pm EST. 
+* Prepare a question or two for our guests tomorrow. What do you want to know about energy use, sustainability, and technology at W&L? 
 
 Participate 
 {: .label .label-yellow }
-Slack: icebreaker of the day
-Slack: share your essay with the rest of class! What did you learn? What are some patterns you notice across multiple essays? How does learning about these old pieces of technology affect your perspective on the future of technology?
+* Slack: icebreaker of the day
+* Slack: share your essay with the rest of class! What did you learn? What are some patterns you notice across multiple essays? How does learning about these old pieces of technology affect your perspective on the future of technology?
 
 Read/Watch
 {: .label .label-green }
 * Canvas: watch chapter 3 video. 
 * Canvas: watch Assignment #2 introduction.
+* Take a look at W&L's [Climate Action Plan](https://my.wlu.edu/presidents-office/issues-and-initiatives/sustainability/climate-action-plan).
+
 
 
 ## Tuesday, May 12
@@ -174,6 +178,7 @@ Participate
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
 * Slack: Chapter 3 discussion question.
+* Zoom: Live class with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
 
 Read/Watch
 {: .label .label-green }
@@ -183,6 +188,7 @@ Read/Watch
 Read/Watch
 {: .label .label-green }
 * Canvas: watch chapter 5 lecture video
+* [Warning: Do Not Dig’: Negotiating the Visibility of Critical Infrastructures](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12srbpt/sage_s10_1177_1470412911430465)
 
 Participate 
 {: .label .label-yellow }
@@ -195,38 +201,63 @@ Participate
 * Zoom: office hours 1-4pm 
 
 ## Friday, May 15
-
+Read/Watch
+{: .label .label-green }
+* Canvas: Assignment #3 Unessay video before Monday
+* Read *New Dark Age* chap 10 over the weekend. Take a look at the other chapters we haven't read and choose at least one to read thoroughly. To help you decide:
+	* Chapter 4 - Big data, science, pharmacology
+	* Chapter 7 - government surveillance, intelligence
+	* Chapter 8 - conspiracy theories 
+	* Chapter 9 - weird auto-generated content on YouTube
 
 Due
 {: .label .label-red }
 * Canvas: [Assignment #2 Map](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/assignments.html) due Friday night 11:59pm. 
 
-# Week 4 – Cloud + New Metaphors
+# Week 4 – Cloud
 
 ## Monday, May 18 
 
 Participate 
 {: .label .label-yellow }
-* Slack: Share your post in Slack. Take a look at posts from other students and compare their findings with your own. Let's talk about the following: 
+* Slack: icebreaker of the day
+* Slack: Share your Assignment #2 post in Slack. Take a look at posts from other students and compare their findings with your own. Let's talk about the following: 
 	* What patterns do you notice? From looking at the map vs. reading entries? 
 	* What information was easy to find? What was hard?
 	* What remains obscured? 
 	* Are there Code/Spaces you observed? How does this assignment change how you perceive the environment around you? 
 
-Read/Watch
-{: .label .label-green }
-* Canvas: Assignment #3 Unessay video 
+Reflect
+{: .label .label-purple }
+Do some brainstorming for Assignment #3 Unessay. This is a creative assignment! Don't freak yet. Give yourself a little time to let your mind chew on this idea. Freewriting can help! What has most intrigued you in this course so far? What challenges did you identify early on that you might want to pick back up? What new things do you want to tackle? I recognize it's a tough time to be creative, but I want this assignment to help you work through the issues we've talked about so far in this course - in whatever manner works best for you. When/where/how are you your most creative? How can you harness that for this assignment?
 
 ## Tuesday, May 19
+Participate 
+{: .label .label-yellow }
+* Slack: icebreaker of the day
+* Slack: Share what you learned from the chapter (not chapter 10) you selected. 
+* Zoom: office hours from 1-4pm to talk about Assignment #3. 
 
 ## Wednesday, May 20
+Read/Watch
+{: .label .label-green }
+* Canvas: Chapter 10 video
+
+Participate 
+{: .label .label-yellow }
+* Slack: chapter 10 discussion questions 
 
 ## Thursday, May 21
+
+Participate 
+{: .label .label-yellow }
+* Zoom: office hours as needed
+* Slack: Share your progress so far with your classmates. We'll do some gentle and encouraging peer review. 
 
 ## Friday, May 22 
 
 Due
 {: .label .label-red }
 * Canvas: Assignment #3 Unessay due Friday night 11:59pm. 
-
+* Canvas: Assignment #4 Reflection due Friday night 11:59pm.
 

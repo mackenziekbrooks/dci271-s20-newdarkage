@@ -10,6 +10,8 @@ This is a research-intensive course. To help you get started, I'm sharing the bo
 
 Zotero Library 
 
+## Scholarly Resources
+* [Amodern journal](https://amodern.net/)
 
 ## Websites 
 * [Federal Communications Commission](fcc.gov) - Check out the [maps](https://www.fcc.gov/reports-research/maps/)!

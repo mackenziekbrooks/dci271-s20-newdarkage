@@ -19,9 +19,9 @@ In order to build a classroom community in a variety of ways across time and spa
 |Tool|Use|
 |---|---|
 |Course Website |All syllabus, schedule, and assignment info lives here. You will post some assignments here as well (instructions below).|
-|Canvas|Assignment delivery, feedback, and grades.|
-|Zoom|Live course meetings + discussion. Any lectures will be recorded so they can accessed later.|
-|Slack|Announcements + discussion + general chatter. This is the place for the questions you'd ask after class or to share videos we might play during class. We'll have daily icebreakers to get to know each other. We can run discussion here and I'll be available for office hours. I recommend downloading the app to your computer or phone and adjusting your notifications [settings](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).|
+|Canvas|Assignment delivery and feedback.|
+|Zoom|Live course meetings + office hours. Any lectures will be recorded so they can accessed later.|
+|Slack|Announcements + discussion + general chatter. This is the place for the questions you'd ask after class or to share videos we might play during class. We'll have daily icebreakers to get to know each other. We will run discussion here and I'll be available for office hours. I recommend downloading the app to your computer or phone and adjusting your notifications [settings](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).|
 
 ## How to post to the course website
 
