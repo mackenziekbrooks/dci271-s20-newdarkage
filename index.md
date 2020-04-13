@@ -30,7 +30,7 @@ Purchase: *New Dark Age* by James Bridle. This is the core text for the class, s
 I recommend checking [Indiebound](https://www.indiebound.org/book/9781786635471) or independent bookstores for this title since Amazon may not be shipping promptly. 
 
 We do have an [ebook](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/r69n1a/alma991010570127204161) for this title available, but unfortunately it comes with a restrictive license. Only one person can access the book at a time. :(
-)
+
 If you have any trouble finding this book, please let me know! 
 
 
