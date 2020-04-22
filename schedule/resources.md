@@ -8,10 +8,11 @@ This is a research-intensive course. To help you get started, I'm sharing the bo
 
 ## Course Bibliography
 
-Zotero Library 
+[Zotero Library](https://www.zotero.org/groups/2489362/wlu-dci271-s20/items/IKYU9GLW/library) contains a list of sources I used while creating this course. 
 
 ## Scholarly Resources
 * [Amodern journal](https://amodern.net/)
+* 
 
 ## Websites 
 * [Federal Communications Commission](fcc.gov) - Check out the [maps](https://www.fcc.gov/reports-research/maps/)!
@@ -21,7 +22,7 @@ Zotero Library
 * [Ars Technica](https://arstechnica.com/)
 * [Wired](https://www.wired.com/)
 * [Recode by Vox](https://www.vox.com/recode)
-* 
+* [The Markup](https://themarkup.org/)
 
 
 ## Media

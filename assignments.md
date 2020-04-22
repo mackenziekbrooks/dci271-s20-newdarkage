@@ -17,7 +17,9 @@ In order to understand our present, let’s look back at the tech that has shape
 * In addition to your essay, you will turn in a brief annotated bibliography. Your bibliography should use a citation standard (MLA, Chicago, etc), but I'm not picky about which one. Each entry in your bibliography should include 2+ sentences - one to summarize the resource, another to analyze it. Why is it useful? Why not? Who created it? Who is the audience? What makes it a reputable? If it's not reputable, why does it have value for your essay? 
 * Your essay will be posted on the course website using these [instructions](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/virtual.html#how-to-post-to-the-course-website). 
 * Turn in a link to your essay on Canvas for feedback. 
-* **Due Friday 5/8 at 5:00pm EST.**
+
+Due Friday 5/8 at 5:00pm EST.
+{: .label .label-red }
 
 |Rubric|Points|
 |--|--|
@@ -47,8 +49,9 @@ Finally, go outside (if you can do so safely)! The goal of this assignment is to
 * You will write 50-100 words on each location answering the questions above. You can include photos, screenshots, video, or links to your sources, but you're not required to include everything. 
 * Add your write-ups to a new page on the course website to live in the [Map section](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/). We'll see everyone's locations in one map, but you'll be able to click on each student's page to read more about the sites in their area. Follow the same [instructions](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/virtual.html#how-to-post-to-the-course-website) for posting on the course website as you did in Assignment #1. 
 * Turn in a link to your essay on Canvas for feedback. 
-* **Due May 15th at 11:59pm EST.**
 
+Due May 15th at 11:59pm EST.
+{: .label .label-red }
 
 |Rubric|Points|
 |---|---|
@@ -73,7 +76,10 @@ Feeling uninspired? Check out these [examples](https://s18tot.ryancordell.org/as
 * You are free to present it in any way you please. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? 
 * However, you must be able to capture your product in a way that can be experienced virtually and shared with the class. This can be through photos, video, audio, etc. Post your results on the course website as you've done for previous assignments, using the tag "unessay."
 * Turn in a link to your essay on Canvas for feedback. 
-* **Due Friday 5/21 at 5:00pm EST.**
+
+Due Friday 5/21 at 5:00pm EST
+{: .label .label-red }
+
 * The rubric for this assignment is: how compelling and effective were you? Here's what create Prof. Daniel Paul O'Donnell says about this rubric:
 
 An unessay is compelling when it shows some combination of the following:
@@ -96,11 +102,11 @@ We covered a lot of ground in this course (and quickly!). This is your chance to
 ## Specs: 
 * Your reflection will just be read by me (though I encourage you to share your thoughts with your classmates on Slack). 
 * Turn in a document in Canvas. 
-* **Due Friday 5/21 at 5:00pm EST.**
 * You should address some combination of the following questions:
 	* What did you learn in this course? What do you predict will stick with you in the coming months/years?
 	* Thinking back to a few weeks ago, how have you changed your view of technology? How has your own relationship with technology changed? In good or bad ways? 
 	* What are actionable steps you can take to change the way technology operates in your life and in the world? What are barriers to those steps? For you? Or for other people? 
 	* How has this virtual classroom experience affected your ability to learn, especially for this topic? 
 
-
+Due Friday 5/21 at 5:00pm EST
+{: .label .label-red }

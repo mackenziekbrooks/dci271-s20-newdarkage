@@ -45,7 +45,7 @@ Read/Watch
 
 * *New Dark Age*, chap 1
 * Read through course website. 
-* Canvas: How to take this course video. How to read for this course video.  
+* Canvas: [How to take this course video](https://wlu.yuja.com/P/VideoManagement/MediaLibrary/MediaChannel/96649). How to read for this course video.  
 
 Reflect 
 {: .label .label-purple }
