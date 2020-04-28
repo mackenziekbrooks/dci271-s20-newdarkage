@@ -6,14 +6,14 @@ nav_order: 3
 
 # Schedule 
 
-Jump to: <a href="#week-1--chasm--computation">Week 1</a> // <a href="#week2-computation">Week 2</a> // <a href="#week-3---climate--complexity">Week 3</a> // <a href="#week-4--cloud">Week 4</a>
+Jump to: <a href="#week-1--chasm">Week 1</a> // <a href="#week-2---computation--cognition">Week 2</a> // <a href="#week-3---climate--complexity">Week 3</a> // <a href="#week-4--cloud">Week 4</a>
 
 Legend: 
 
 Participate 
 {: .label .label-yellow } 
 
-Everything with this label are activities you should do on the day if possible.
+Everything with this label are activities you should do on the day if possible. Discussion questions are meant to prompt conversation. You don't have to answer every one, instead, look for ways to engage with the ideas of your classmates. 
 
 Read/Watch 
 {: .label .label-green }
@@ -30,14 +30,14 @@ Red means an assignment is due!
 
 ---
 
-# Week 1 – Chasm  
+# Week 1 – Chasm
 
 ## Wednesday, April 29
 
 Participate 
 {: .label .label-yellow }
 
-* Zoom: office hour introductions at 1-4pm EST. 
+* Zoom: office hour introductions at 1-4pm EST. Drop in during this window to say hi and introduce yourself. 
 * Slack: Icebreaker of the day on the #icebreakers channel.
 
 Read/Watch
@@ -45,7 +45,7 @@ Read/Watch
 
 * *New Dark Age*, chap 1
 * Read through course website. 
-* Canvas: [How to take this course video](https://wlu.yuja.com/P/VideoManagement/MediaLibrary/MediaChannel/96649). How to read for this course video.  
+* Canvas: [How to take this course video](https://wlu.yuja.com/P/VideoManagement/MediaLibrary/MediaChannel/96649). 
 
 Reflect 
 {: .label .label-purple }
@@ -59,12 +59,19 @@ Reflect
 
 Read/Watch
 {: .label .label-green }
-* Canvas: Chap 1 lecture video
+* Canvas/YuJa: [Chap 1 lecture video](https://wlu.yuja.com/V/MediaFile?mediaFile=76267&node=3995455&a=389970748&autoplay=1)
 
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day
 * Slack: Chapter 1 discussion. Posted in #discussion channel. 
+	* What are the greatest challenges in the world today from your perspective? How is technology involved? 
+	* What aspects of technology scare you the most? Excite you? 
+	* How have you seen technology change in your lifetime?
+	* What are your biggest questions about technology and the future? 
+	* What does it mean to “think critically?” Have you learned skills at W&L (or elsewhere) that have helped you think critically? 
+
+
 
 Reflect
 {: .label .label-purple }
@@ -73,6 +80,7 @@ In discussion-based classes, I like to have students come up with a class charte
 * What was your worst classroom experience? Why was it so terrible?
 * What are the qualities that make for a positive, safe, productive, generative, enriching classroom? 
 * What about this online format? What other considerations should we keep in mind? 
+
 
 ## Friday, May 1 
 
@@ -88,19 +96,23 @@ Participate
 * Slack: Share a summary of your reflections on the reflection questions from yesterday. What are the shared values for a positive classroom experience? How can we carry those values through an online format? Use the Post feature in Slack to create a shared document where you write out your charter. Sign your name at the end when the document is complete. Here's some [examples](https://praxis.scholarslab.org/resources/toward-a-project-charter/) if you need them.
 
 
-# Week 2 - Computation 
+# Week 2 - Computation & Cognition 
 
 ## Monday, May 4 
 
 Read/Watch
 {: .label .label-green }
 * Finish reading *New Dark Age* chapter 2
-* Canvas: Chapter 2 lecture part 1 
+* Canvas/Yuja: [Chapter 2 lecture part 1](https://wlu.yuja.com/V/MediaFile?mediaFile=80516&node=4022635&a=76478128&autoplay=1) 
 
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day
 * Slack: Answer Chapter 2 discussion questions
+	* Do you agree with Bridle’s take here (pg 34)? What are some examples of the ways that computers reduce complexity? What are examples of ways they “freeze the problems of the immediate moment into abstract, intractable dilemmas?”
+	* What did you take away from this section? What questions do you still have? Is there a particular technology whose history intrigues you? 
+	* Bridle obviously has his own motivations for telling this history the way he does. What’s missing from his telling? How might a historian tell it differently? 
+
 
 Reflect
 {: .label .label-purple }
@@ -110,19 +122,26 @@ Do some serious brainstorming for Assignment #1! A full draft will be due Friday
 
 Read/Watch
 {: .label .label-green }
-* Canvas: watch How to Research video. 
+* Canvas/Yuja: watch [How to Research video](https://wlu.yuja.com/V/Video?v=1048859&node=4022529&a=251525967&autoplay=1). 
 * Canvas: Chapter 2 lecture part 2
 * [*Code/Space* chapter 1](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=7850&fn=9780262042482_sch_0001.pdf)
 
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day
-* Zoom: office hours 1-4pm EST + topic approval. 
+* Slack: Answer discussion questions from Chapter 2 Part 2:
+	* What GPS services do you use regularly? How does that service create a selective model of the world? 
+	* What code/spaces come to mind? 
+	* Where have you seen examples of automation bias? In your own life or in society? How did you know? 
+	* What do you know that isn’t online or hasn’t been shaped by computation? 
+
+* Zoom: office hours 1-4pm EST + topic approval. Join me in Zoom to share your ideas for assignment #1. 
 
 ## Wednesday, May 6
 Read/Watch
 {: .label .label-green }
 * *New Dark Age* chapter 6
+* Canvas/Yuja: [Chapter 6 lecture]()
 
 Participate 
 {: .label .label-yellow }
@@ -132,10 +151,13 @@ Participate
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
+* Slack: discussion questions for chapter 6: 
+	* Where else can we see bias in technology? What can we do about it?
+	* Bridle calls for an ethic of cooperation between humans and non-human intelligence. What does that look like?
 
 Read/Watch
 {: .label .label-green }
-* Canvas: How to post to the course website
+* Canvas: [How to post to the course website](https://wlu.yuja.com/V/Video?v=1006556&node=3934123&a=777087980&autoplay=1)
 
 
 ## Friday, May 8
@@ -168,7 +190,7 @@ Participate
 Read/Watch
 {: .label .label-green }
 * Canvas: watch chapter 3 video. 
-* Canvas: watch Assignment #2 introduction.
+* Canvas/Yuja: watch [Assignment #2 introduction video](https://wlu.yuja.com/V/Video?v=1049109&node=4067983&a=907732609&autoplay=1).
 * Take a look at W&L's [Climate Action Plan](https://my.wlu.edu/presidents-office/issues-and-initiatives/sustainability/climate-action-plan).
 
 
@@ -178,7 +200,7 @@ Participate
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
 * Slack: Chapter 3 discussion question.
-* Zoom: Live class with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
+* Zoom: Live class at 1pm EST with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
 
 Read/Watch
 {: .label .label-green }
@@ -193,6 +215,7 @@ Read/Watch
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
+* Zoom: Live class with David Saacke at 1pm EST. 
 
 ## Thursday, May 14
 Participate 

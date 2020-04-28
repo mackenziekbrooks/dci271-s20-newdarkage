@@ -48,6 +48,8 @@ I am committed to ensuring access to course content for all students. Reasonable
 
 If you have already been approved for accommodations, please meet with me within the first two days of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
 
+Captions for recorded lectures can be viewed through YuJa or using the Powerpoint Subtitles feature. 
+
 ## Plagiarism
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
 

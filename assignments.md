@@ -4,6 +4,8 @@ title: Assignments
 nav_order: 2
 ---
 
+Jump to: [Assignment 1](#assignment-1-dead-tech) | [Assignment 2](#assignment-2-mapping-the-hidden-systems-in-the-landscape) | [Assignment 3](#assignment-3-new-metaphors-unessay) | [Assignment 4](#assignment-4-reflection)
+
 Assignment Policy
 {: .label .label-red }
 This course will be graded on a Credit/No Credit basis. For credit to be earned in this course, you must complete all four assignments to the minimum specifications. I will grant extensions during this time, but all four assignments must be turned in by the end of the course for Credit to be received.
@@ -21,6 +23,8 @@ In order to understand our present, let’s look back at the tech that has shape
 Due Friday 5/8 at 5:00pm EST.
 {: .label .label-red }
 
+
+
 |Rubric|Points|
 |--|--|
 |Writing <br /> Your writing should be clear, concise, well-structured, and full of curiosity. |X|
@@ -33,7 +37,15 @@ Due Friday 5/8 at 5:00pm EST.
 
 # Assignment #2: Mapping the Hidden Systems in the Landscape
 
-In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 3, you will identify 4-5 sites of material technology in the landscape and document it for the course website. You'll place each site on a [map](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/) so we can see the fuller picture of your local infrastructure. Your documentation should include photos, video, and 50-100 words that address the following questions: What made you notice this site? Why did you select it? What’s happening? What is the technology at play? Who owns the land and who is being serviced? Who is benefiting and who is not? How can you find out more information about this site? What can’t you find and why? 
+In chapter 5, Bridle writes about psycho-geography and his search for “the places where the great networks of digital technologies become steel and wire.” In this assignment, you will uncover the hidden traces of technology in our local surroundings. Armed with knowledge from our readings and guests in Week 3, you will identify 4-5 sites of material technology in the landscape and document it for the course website. You'll place each site on a [map](https://mackenziekbrooks.github.io/dci271-s20-newdarkage/map/) so we can see the fuller picture of your local infrastructure. Your documentation should include photos, video, and 50-100 words that address the following questions: 
+* What made you notice this site? 
+* Why did you select it? 
+* What’s happening? 
+* What is the technology at play? 
+* Who owns the land and who is being serviced? 
+* Who is benefiting and who is not? 
+* How can you find out more information about this site? 
+* What can’t you find and why? 
 
 Originally, this assignment was going to be a scavenger hunt through campus and Rockbridge County. Since most of you are no longer on campus, this map has new potential! But it means you'll have to conduct your own research and rely on local sources of information. I'll walk you through some of the options in the video for this assignment, but consider the following:
 * local newspapers

@@ -10,7 +10,7 @@ nav_order: 7
         <section class="article archive">
           <article class="archive-wrap">
               <ul class="nobullet">
-                 <lh><h1>Dead Tech Essays</h1></lh>
+                 <lh><h1>Hidden Landscapes Map</h1></lh>
                   {% assign mapposts = site.posts | where:"tags","map" %}
                   {% for post in mapposts %}            
                   <li>

@@ -19,8 +19,8 @@ In order to build a classroom community in a variety of ways across time and spa
 |Tool|Use|
 |---|---|
 |Course Website |All syllabus, schedule, and assignment info lives here. You will post some assignments here as well (instructions below).|
-|Canvas|Assignment delivery and feedback.|
-|Zoom|Live course meetings + office hours. Any lectures will be recorded so they can accessed later.|
+|Canvas|Assignment delivery and feedback. Recorded lectures and video are available in the YuJa section of Canvas. |
+|Zoom|Live course meetings + office hours. For security reasons, I'll be posting access info in Slack.|
 |Slack|Announcements + discussion + general chatter. This is the place for the questions you'd ask after class or to share videos we might play during class. We'll have daily icebreakers to get to know each other. We will run discussion here and I'll be available for office hours. I recommend downloading the app to your computer or phone and adjusting your notifications [settings](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).|
 
 ## How to post to the course website
@@ -32,7 +32,7 @@ Posting to our course website will be a little different than using WordPress or
 
 ## Workflow
 
-[Watch a screencast of this workflow](){: .btn .btn-green }
+[Watch a screencast of this workflow](https://wlu.yuja.com/V/Video?v=1006556&node=3934123&a=777087980&autoplay=1){: .btn .btn-green }
 
 Here's the general workflow: 
 1. Create an account with [GitHub.com](http://www.github.com/), a website for sharing code. 
