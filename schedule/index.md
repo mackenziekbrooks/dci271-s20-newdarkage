@@ -153,6 +153,7 @@ Participate
 * Slack: icebreaker of the day! 
 * Slack: discussion questions for chapter 6: 
 	* Where else can we see bias in technology? What can we do about it?
+	* What are the implications for how we act in the word with regard to the “reality of nonhuman intelligence?”
 	* Bridle calls for an ethic of cooperation between humans and non-human intelligence. What does that look like?
 
 Read/Watch

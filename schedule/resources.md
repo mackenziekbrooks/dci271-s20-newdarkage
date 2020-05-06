@@ -12,7 +12,7 @@ This is a research-intensive course. To help you get started, I'm sharing the bo
 
 ## Scholarly Resources
 * [Amodern journal](https://amodern.net/)
-
+* [The Audible Past: Cultural Origins of Sound Reproduction](https://books-google-com.ezproxy.wlu.edu/books?id=jnHrJRzZiRgC&dq=The+Audible+Past+Cultural+Origins+of+Sound+Reproduction&lr=)
 
 ## Websites 
 * [Federal Communications Commission](fcc.gov) - Check out the [maps](https://www.fcc.gov/reports-research/maps/)!
