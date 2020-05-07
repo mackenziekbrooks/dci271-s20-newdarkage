@@ -8,22 +8,29 @@ tags: deadtech
 
 An important piece of dead technology that contributes to the way that modern office systems work today is the mimeograph. The mimeograph is an early copy machine that works by using a stencil of something you want to make a copy of on paper and forcing ink through it so that the design is printed onto a new sheet of paper, as shown by the pictures below. In the late 1870’s, Thomas Edison contributed several inventions that he created towards the commercial mimeograph machine that was patented by Alfred Blake Dick in the 1880’s. The mimeograph was popular due to its relatively low cost and widespread availability.
   
-  ![Early version of mimeograph](https://www.officemuseum.com/Copying%20Machine%20Page/copy_plate17.jpg)
+  !(https://www.officemuseum.com/Copying%20Machine%20Page/copy_plate17.jpg)
+  An early version of the mimeograph
   !(https://museumofprinting.org/site/assets/files/1173/mimeo1_copy.jpg)
+  An early version of the mimeograph
   
-  ![A later model of the mimeograph with automatic feed ~ 1910](https://blog.findmysupplies.co.uk/wp-content/uploads/2018/07/Mimeograph-Machine.jpg)
+  !(https://blog.findmysupplies.co.uk/wp-content/uploads/2018/07/Mimeograph-Machine.jpg)
+  A later model of the mimeograph with automatic feed ~ 1910
 
 After the mimeograph’s invention in the 1880’s, it was used widely throughout time until about the late 1960’s when it began to be phased out by Xerox photocopier machines which were invented in 1959. However, it was used by some who resisted the new photocopier machines until the 1980’s. The mimeograph was used in schools, churches, small businesses, and in the music and art industries to create inexpensive copies of pages efficiently and it was able to produce hundreds of copies. Although printing had already existed for hundreds of years, the mimeograph was a coveted technology because it allowed one to make copies of an already printed page quickly. The stencil was a crucial part of the mimeograph and was often created by hand using an electric pen that was also invented by Edison or by placing it in a typewriter. Often, stencils were also created using a thermal infrared method or by an electrostencil machine. The stencil would over time deteriorate and lose its pattern, and in this situation another stencil must be created. 
 
 Spirit duplicators were a similar technology that created copies, however they proved to create a less clear image because it did not use as dark of an ink. Both were used in schools and publishing establishments in order to create cheap copies with little effort; however, they differed in appearance and longevity. Below are two images that show example of pages printed with a mimeograph versus a spirit duplicator.
   
-  ![An information bulletin created using a mimeograph](https://blogs.loc.gov/loc/files/2012/10/first_LCIB_ed-221x300.jpg)
-  ![Learning sheets created using a spirit duplicator ](http://gaylelintz.com/wp-content/uploads/2014/04/IMG_4217.jpg)
+  !(https://blogs.loc.gov/loc/files/2012/10/first_LCIB_ed-221x300.jpg)
+  An information bulletin created using a mimeograph
+  !(http://gaylelintz.com/wp-content/uploads/2014/04/IMG_4217.jpg)
+  Learning sheets created using a spirit duplicator 
   
 The size and shape of the mimeograph machine definitely changed over time to become more contemporary and it began to be produced by a variety of different companies. Pictured below is a mimeograph from 1961 that was produced by Standard Rocket. A normal mimeograph during this time would have cost anywhere from $50-$100 depending on the version and producer. The mimeograph proved to have a large impact on the literary scene as small authors who were unpublished were able to create inexpensive copies of their writings for distribution. Mimeographs were essential for independent authors who wanted to reach a large audience as well as creators of bulletins and newsletters. Looking at historical articles, mimeographs also played a large role in the distribution of propaganda in the 1950’s and 60’s and especially in the student population. Copies created by mimeographs were said to have a more DIY look and this appealed to those who did not follow mainstream publications. Mimeographs were eventually phased out when Xerox photocopiers were invented and became more efficient, however mimeographs were still used by some until the 1980’s. According to a National Geographic article on the “Mimeograph Revolution,” mimeographs were used well into the 1980’s during feminist movements and in underground music scenes. [Here](https://www.youtube.com/watch?v=gYjj62eGwc8) is an interesting video that shows how the mimeograph was used near the 60’s and demonstrates how much effort must be put in to make copies of a page. 
   
-  ![A later version of the mimeograph - 1961](https://d3h6k4kfl8m9p0.cloudfront.net/stories/F8u7-52ajumDTY.0axlmMw-smallw.jpg)
-  ![A 1967 fanzine produced using a mimeograph. This is a rock and roll bulletin with Jimi Hendrix on the cover. ](https://pleasuresofpasttimes.com/wp-content/uploads/2017/07/UNADJUSTEDNONRAW_thumb_13e8.gif)
+  !(https://d3h6k4kfl8m9p0.cloudfront.net/stories/F8u7-52ajumDTY.0axlmMw-smallw.jpg)
+  A later version of the mimeograph - 1961
+  !(https://pleasuresofpasttimes.com/wp-content/uploads/2017/07/UNADJUSTEDNONRAW_thumb_13e8.gif)
+  A 1967 fanzine produced using a mimeograph. This is a rock and roll bulletin with Jimi Hendrix on the cover.
 
 Photocopying machines were introduced into wide-spread commercial use in 1959 by Xerox, a company that most of us have heard of today. Photocopiers became very popular and eventually replaced mimeographs and other copying technologies because they had many more capabilities and used xerography, a much simpler process. Mimeographs in schools and offices were replaced by these photocopiers and they became almost obsolete, aside from the aforementioned uses. However, photocopiers are also predicted to become a dead technology in the future due to the creation, storage, and distribution of information digitally. Today, we simply go to a printer station on campus to make a copy and it does most of the work for us. However, it has become clear to me how much work one would have had to put in to create a copy of a single sheet of paper using a mimeograph. I am not surprised that mimeographs became a dead technology because they did not use any digital copying techniques and it all had to be done by hand. It would be interesting to me to see 20 years what will happen to photocopiers and if they will be an antiquated technology.
 
