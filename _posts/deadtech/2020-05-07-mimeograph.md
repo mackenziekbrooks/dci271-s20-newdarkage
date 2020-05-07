@@ -12,7 +12,7 @@ An important piece of dead technology that contributes to the way that modern of
 
 ![Early version of the mimeograph](https://museumofprinting.org/site/assets/files/1173/mimeo1_copy.jpg)
 
-! [A later model of the mimeograph with automatic feed ~ 1910](https://blog.findmysupplies.co.uk/wp-content/uploads/2018/07/Mimeograph-Machine.jpg)
+![A later model of the mimeograph with automatic feed ~ 1910](https://blog.findmysupplies.co.uk/wp-content/uploads/2018/07/Mimeograph-Machine.jpg)
 
 After the mimeograph’s invention in the 1880’s, it was used widely throughout time until about the late 1960’s when it began to be phased out by Xerox photocopier machines which were invented in 1959. However, it was used by some who resisted the new photocopier machines until the 1980’s. The mimeograph was used in schools, churches, small businesses, and in the music and art industries to create inexpensive copies of pages efficiently and it was able to produce hundreds of copies. Although printing had already existed for hundreds of years, the mimeograph was a coveted technology because it allowed one to make copies of an already printed page quickly. The stencil was a crucial part of the mimeograph and was often created by hand using an electric pen that was also invented by Edison or by placing it in a typewriter. Often, stencils were also created using a thermal infrared method or by an electrostencil machine. The stencil would over time deteriorate and lose its pattern, and in this situation another stencil must be created. 
 
