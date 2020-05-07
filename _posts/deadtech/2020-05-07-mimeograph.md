@@ -6,7 +6,7 @@ tags: deadtech
 ---
 # **The Mimeograph** 
 
-An important piece of dead technology that contributes to the way that modern office systems work today is the mimeograph. The mimeograph is an early copy machine that works by using a stencil of something you want to make a copy of on paper and forcing ink through it so that the design is printed onto a new sheet of paper, as shown by the pictures below. In the late 1870’s, Thomas Edison contributed several inventions that he created towards the commercial mimeograph machine that was patented by Alfred Blake Dick in the 1880’s. The mimeograph was popular due to its relatively low cost and widespread availability.Below are two photos that show early versions of the machine and a third photo showing a later model. 
+An important piece of dead technology that contributes to the way that modern office systems work today is the mimeograph. The mimeograph is an early copy machine that works by using a stencil of something you want to make a copy of on paper and forcing ink through it so that the design is printed onto a new sheet of paper, as shown by the pictures below. In the late 1870’s, Thomas Edison contributed several inventions that he created towards the commercial mimeograph machine that was patented by Alfred Blake Dick in the 1880’s. The mimeograph was popular due to its relatively low cost and widespread availability. Below are two photos that show early versions of the machine and a third photo showing a later model from about 1910. 
   
 ![Early version of the mimeograph](https://www.officemuseum.com/Copying%20Machine%20Page/copy_plate17.jpg) 
 
