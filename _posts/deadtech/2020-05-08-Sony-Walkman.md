@@ -1,11 +1,12 @@
 ---
 published: false
 ---
+	published: true
+
 ## The Sony Walkman: An Icon turned Dead Tech
 In the age of iPhones, Airpods, Apple Music, and Spotify, it is hard to imagine a time in which music is not immediately available. For $9.99 a month, we can have instant access to millions of songs from thousands of artists with one simple app. From there, technologies like Bluetooth allow us to play these songs anywhere: in our homes, cars, or at the park. We can share the music with large crowds or play it exclusively for ourselves. Before the age of iPhones and other portable music players, there was one device that was disrupting the music industry: the Sony Walkman. The Walkman was unique in the fact that it was the first widely used portable music device, and it allowed individuals to carry their favorite songs around in their pockets. The Walkman is the reason that the music landscape exists in its current form, and it has led to a number of crucial developments, some good (like streaming services), and some bad (like piracy). Regardless, music listening exists in a completely different form today, and the Walkman is the reason why.
     
 ![walkman.jpeg]({{site.baseurl}}/assets/images/walkman.jpeg)
-
 	
 The Walkman was born on July 1, 1979 (Haire 2009). The introduction of pre-recorded music cassette tapes in the 1960s ushered in a new era of music portability. However, people still found themselves lugging around bulky cassette recorders to listen to music. So, Sony got the idea for the Walkman: a smaller, sleeker playback-only device that was optimized for headphone use. In the first month, Sony projected about 5,000 sales. However, the Walkman sold upwards of 50,000 units in the first two months. It was an instant hit. The Walkman was not the first portable audio player, but it brought an unprecedented combination of portability, usability, and practicality into one compact, high-quality device. And because of this, the Walkman owned the 1980s. Cassette tapes outsold vinyl for the first time in 1983. In 1986, the word “Walkman” was added to the dictionary. The launch of the aerobic workout craze in the late 1980s made the Walkman an essential workout accessory. Music had never been so accessible and so portable, and the Walkman set a new standard for playback devices (Haire 2009).
 	
