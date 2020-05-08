@@ -44,26 +44,50 @@ When considering the demise of the point-and-click adventure game genre, one nos
 However infuriating at times, point-and-click games have evolved over time as technology has changed. Few households still utilize desktop PCs, which many of these games were built for. Not to mention, computer mice, the main tool for pointing and clicking, are things of the past. While Steam and emulators make playing older games on modern devices possible, video games have evolved, surpassing the monotony of pointing and clicking. The simplicity seems antiquated in comparison. The spatial design theory is perhaps one of the classic point-and-click game's most lasting legacies in video games today, beyond the charming sense of nostalgia they generate for many.
 
 # Bibliography
-Black, Michael L. “Narrative and Spatial Form in Digital Media: A Platform Study of the SCUMM Engine and Ron Gilbert’s The Secret of Monkey Island.” Games and Culture 7, no. 3 (May 2012): 209–37, https://journals-sagepub-com.ezproxy.wlu.edu/doi/full/10.1177/1555412012440317#_i3.
+Black, Michael L. “Narrative and Spatial Form in Digital Media: A Platform Study of the SCUMM Engine and Ron Gilbert’s The Secret of Monkey Island.” _Games and Culture_ 7, no. 3 (May 2012): 209–37, https://journals-sagepub-com.ezproxy.wlu.edu/doi/full/10.1177/1555412012440317#_i3.
 
-Clark, Nicole, “From 'Putt Putt' to 'Freddi Fish'-How Humongous Entertainment Made Edutainment Fun,” Vice, May 9, 2019, https://www.vice.com/en_us/article/xwnwya/from-putt-putt-to-freddi-fishhow-humongous-entertainment-made-edutainment-fun.
+-The author explains the history behind the creation of the SCUMM framework as well as how it actually functioned. He focuses on how SCUMM allowed for the focus on narrative through code. The focus is on how certain interactions with in-game objects connect with narrative movement, creating a feeling of literary reading in game play.
 
-Cobbett, Richard. “The Rise, Fall, and Rebirth of LucasArts' Adventure Classics.” Vice, January 28, 2015. https://www.vice.com/en_us/article/kwpd7v/the-rise-fall-and-rebirth-of-lucasarts-adventure-classics-883.
+Clark, Nicole, “From 'Putt Putt' to 'Freddi Fish'-How Humongous Entertainment Made Edutainment Fun,” _Vice_, May 9, 2019, https://www.vice.com/en_us/article/xwnwya/from-putt-putt-to-freddi-fishhow-humongous-entertainment-made-edutainment-fun.
 
-Crockford, Douglas. “The Untold Story of Maniac Mansion.” Wired. Conde Nast, December 14, 2017. https://www.wired.com/1993/04/nintendo-2/.
+-The author recounts the history of Humongous Entertainment, the creator of the children’s edutainment adventure series. Especially notable is the connection to LucasArts, one of the originators of the computer-based adventure game, as well as the use of similar in-game practices to adult adventure games. This source uses interviews with the founders of Humongous Entertainment, one of which is the founder of SCUMM, a framework used in a number of successful adventure games. This evolution shows how pervasive the adventure game genre was across audiences.
 
-Dip, Roberto. “SCUMM Internals and Syntax for the Sake of Nostalgia.” Monades. Accessed May 8, 2020. https://www.monades.dev/scumm-internals-syntax/.
+Cobbett, Richard. “The Rise, Fall, and Rebirth of LucasArts' Adventure Classics.” _Vice_, January 28, 2015. https://www.vice.com/en_us/article/kwpd7v/the-rise-fall-and-rebirth-of-lucasarts-adventure-classics-883.
 
-Jefferson, Ed. “The Rise and Fall of the Point-and-Click Adventure Game,” The New Statesman, January 7, 2019, https://www.newstatesman.com/culture/games/2019/01/rise-and-fall-point-and-click-adventure-game.
+-This article recounts the history of LucasArts, one of the originators of the point-and-click adventure game. A series of notable games are revisited by the author, outlining the changes in the company’s output overtime. LucasArts is seen by many as the pioneer who perfected the point-and-click adventure game genre.
 
-Jerz, Dennis G. “Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original “Adventure” in Code and in Kentucky,” Digital Humanities Quarterly, 1, no. 2 (2007), Accessed May 7, 2020. https://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html.
+Crockford, Douglas. “The Untold Story of Maniac Mansion.” _Wired_. Conde Nast, December 14, 2017. https://www.wired.com/1993/04/nintendo-2/.
+
+-Crockford recounts his time working on _Maniac Mansion_ at LucasArts, making this a primary source. He discusses the behind-the-scenes drama behind creating the game that defined a generation of adventure gaming. Also notable is his reference to the creation of SCUMM during his time working on the project.
+
+Dip, Roberto. “SCUMM Internals and Syntax for the Sake of Nostalgia.” _Monades_. Accessed May 8, 2020. https://www.monades.dev/scumm-internals-syntax/.
+
+-The author reflects on the SCUMM language originally created by LucasArts for _Maniac Mansion_. He outlines how the language streamlined adventure game production and allowed for multi-tasking in graphic representation. This source gives an inside-look to one of the core moments of adventure gaming history, showing how the code functioned inside the game.
+
+Jefferson, Ed. “The Rise and Fall of the Point-and-Click Adventure Game,” _The New Statesman_, January 7, 2019, https://www.newstatesman.com/culture/games/2019/01/rise-and-fall-point-and-click-adventure-game.
+
+-The author reflects on his nostalgic past of classic point-and-click adventure games. He describes why he believes the genre declined, noting that the games were incredibly frustrating in how they were coded. The games were sometimes too difficult because the actions to move the narrative forward were often incredibly specific, partially due to technological limitations.
+
+Jerz, Dennis G. “Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original “Adventure” in Code and in Kentucky,” _Digital Humanities Quarterly_ 1, no. 2 (2007), Accessed May 7, 2020. https://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html.
+
+-Jerz writes on the history of one of the original text adventure games, _Colossal Cave Adventure_. He describes the interface which allows for the movement through a number of connected rooms in a large cave system. He further compares this to the actual cave the game was based on, noting the accuracy in the creator’s digital representation of nature. This piece shows the relationship between the coding of adventure games and space, one of the clear patterns in how scholars are discussing this piece of video game history.
 
 Kaser, Rachel. “The Dark Age of Adventure Games -- and the Gems It Produced.” The Next Web, April 8, 2019. https://thenextweb.com/gaming/2019/04/06/adventure-games-gems-dark-age/.
 
+-The author constructs the “eras” of the point-and-click adventure game, from the “golden age” to the “dark age” and “revival.” As the 1990s concluded, these games entered the “dark age” era, altering the genre to focus on a less charming 3D style with less mouse-driven action. This era was also the time when LucasArts produced its last adventure game, signaling the demise of the genre’s golden era.
+
 Pearson, Jordan. “The First Text Adventure Game Ever Is Finally Open Source.” Vice, May 29, 2017. https://www.vice.com/en_us/article/ywmyn5/the-first-text-adventure-game-ever-is-finally-open-source.
+
+-The _Colossal Cave Adventure_ code was released as open source code in 2017. Having been published in the 1970’s, this allowed for developers to finally work to improve the code and upgrade it for modern-day machines. This action shows how deeply rooted _Colossal Cave Adventure_ is in gaming history, and the nostalgia gamers still hold for these original styles of adventure gaming.
 
 The Editors of Encyclopaedia Britannica, “Myst,” Encyclopædia Britannica. Encyclopædia Britannica, inc., August 18, 2011, https://www.britannica.com/topic/Myst.
 
+-While this is a typical Encyclopedia entry discussing the backstory of the popular computer game _Myst_, its analysis of the release is particularly interesting. The game was incredibly popular, despite not being heavy in violence at a time when those games were at the forefront. Myst stayed a best-selling computer game for many years, and changed the landscape of adventure games as one of the first and most popular releases on a CD-ROM with then-realistic graphics.
+
 Wolf, Mark J.P. "Inventing Space: Toward a Taxonomy of On- and Off-Screen Space in Video Games." Film Quarterly 51, no. 1 (1997): 11-23. Accessed May 8, 2020. www.jstor.org/stable/1213527.
 
+-Wolf, a communications scholar with a focus in video gaming, recounts the history of adventure gaming in relation to how the design deals with space. He notes that, as technology improved, the ability to move through space in adventure gaming did as well. This article is helpful in understanding the evolution of technology and design within the world of adventure gaming.
+
 Wolf, Mark J.P. "MYST AND THE ADVENTURE GAME GENRE." In Myst and Riven: The World of the D'ni, 7-21. ANN ARBOR: University of Michigan Press, 2011. Accessed May 8, 2020, www.jstor.org/stable/j.ctv65sx38.6.
+
+-Wolf discusses the history of adventure game. He begins with _Colossal Cave Adventure_, noting how its formula inspired future point-and click adventure games. The _Colossal Cave Adventure_ inspired the understanding of spatial movement, object-usage and character interactions in adventure gaming. From there, he shows the path which led to the creation of Myst in the mid-1990s, which came at a time when technology improved significantly allowing for greater graphics and sound in adventure gaming.
