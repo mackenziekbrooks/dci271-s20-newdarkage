@@ -13,7 +13,7 @@ Professor Brooks
 DCI 271
 8 May 2020
 
-## Let’s Get Cracking: The Bletchley Park Bombe
+# Let’s Get Cracking: The Bletchley Park Bombe
 	During World War II Germany implemented a strategy called Blitzkrieg, which meant “Lightning War”. The idea behind this strategy was for Germany to fight and advance as quickly as possible and strike without warning, so they could have both momentum and surprise on their side when the first shot was fired, allowing them to triumph over superior numbers (Reilly 254). In order to maximize the potential of this strategy, all attacking German commanders must be on the same page about when and where to make calculated blows. Because the German Army was spread throughout Europe, the commanders could not gather in a secure location; nor could they send their plans plainly by telegraph because they would be intercepted. The German commanders solved this communication problem by using a secret code to relay important information. They would use a machine called “Enigma” to encode and decode their messages. 
 
 ![Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg]({{site.baseurl}}/assets/images/Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg)
