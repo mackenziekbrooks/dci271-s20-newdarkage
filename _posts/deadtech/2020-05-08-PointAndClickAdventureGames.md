@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Point-and-Click Adventure Games
 author: Jenna Marvet
 tags: deadtech
@@ -79,4 +79,3 @@ Film Quarterly 51, no. 1 (1997): 11-23. Accessed May 8, 2020. www.jstor.org/stab
 
 Wolf, Mark J.P. "MYST AND THE ADVENTURE GAME GENRE." In Myst and Riven: The World of 
 the D'ni, 7-21. ANN ARBOR: University of Michigan Press, 2011. Accessed May 8, 2020, www.jstor.org/stable/j.ctv65sx38.6.
-
