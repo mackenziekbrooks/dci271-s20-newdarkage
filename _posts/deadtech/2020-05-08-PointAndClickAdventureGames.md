@@ -9,32 +9,32 @@ tags: deadtech
 
 Before there were video games, there were all-text games. Enter _Colossal Cave Adventure_: created in 1976, it was considered the first notable computer text adventure game (Pearson.) Inspired by tabletop Dungeons and Dragons, _Colossal Cave Adventure_ allowed players to explore a large cave network with fantasy and puzzle elements using text-based commands (Jerz.) _Colossal Cave Adventure_ utilized a description of connected rooms the player moved through using responses like “n” for north and “d” for down (Wolf, "MYST" 8.)
 
-# _Colossal Cave Adventure_ Walk-Through
+**_Colossal Cave Adventure_ Walk-Through**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3etkSoHrR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Text adventures like _Colossal Cave Adventure_ laid the groundwork for future adventure computer games, such as point-and click adventure games. The main aspects that were adopted were the idea of a navigable space composed of combined rooms, characters which a player could interact with for brief conversations and the use of objects to give players access to new areas (Wolf, "MYST" 9.) These building blocks can be seen in adventure games throughout the following history. As technology evolved, so did computer games. Improvements in hardware, software, processing speed and memory made possible the evolution from text adventures, to graphic Atari 2600 adventure games, to photorealistic and 3D CD-ROM adventure games (Wolf, "Inventing Space" 12.) In fact, _Colossal Cave Adventure_ itself evolved into _Adventure_ for the Atari 2600 in 1978 (Jerz.)
 
-# Atari 2600
+**Atari 2600**
 ![Atari 2600 device](https://upload.wikimedia.org/wikipedia/commons/b/b9/Atari-2600-Wood-4Sw-Set.jpg)
 
 In 1987, Ron Gilbert and Aric Wilmunder created the Script Creation Utility for Maniac Mansion (SCUMM,) a story development system. _Maniac Mansion_ is a LucasArts graphic story game parodying bad horror movies in which players manipulate three teenagers to save "Sandy the Cheerleader" from a doctor controlled by an evil monster (Crockford.) SCUMM organized narrative elements “at the level of code within a database of discrete spaces.” The SCUMM framework allowed for a user-friendly narrativity connecting player actions with visual representations of story elements (Black 213.)
 
-# _Maniac Mansion_ In-Game Screen
+**_Maniac Mansion_ In-Game Screen**
 ![Maniac Mansion in-game screen](https://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png)
 
 In essence, SCUMM is an assembly language which was created to abstract gameplay. Abstraction streamlines code and allows for increased ease of reusability (Dip.) Its reusability allowed for the creation of a number of other successful LucasArts computer adventure games for many years to follow such as _The Secret of Monkey Island_ and _Indiana Jones and the Fate of Atlantis_ (Cobbett.)
 
-# SCUMM Code Example
+**SCUMM Example**
 ![SCUMM code example]({{site.baseurl}}/assets/images/scumm.JPG)
 
 Also in 1987, the CD-ROM became increasingly popular for adventure game developers. CD-ROMs allowed for more memory space, meaning better graphics, sound and integrated video clips. In 1993, cultural phenonmenon _Myst_ was released as an adventure game on CD-ROM discs. It became a huge success in the gaming world and released a number of sequels. Over 100,000 copies of _Myst_ were sold by the end of 1993 and the game was praised for its “photorealistic” computer-generated graphics (Wolf, "MYST" 17.) In Myst, players assume the role of the “Stranger” and use magical books to travel throughout a lonely, but beautiful island. Throughout the game, players solve puzzles to move along in the relatively low-stakes story (Encyclopaedia Britannica.)
 
-# _Myst_ Walkthrough
+**_Myst_ Walkthrough**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D30r0iRH73Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Around the same time in 1992, Ron Gilbert, one of the key creators of SCUMM, and Shelley Day founded Humongous Entertainment after working at LucasArts. Humongous applied narrative, character and world-building to children’s edutainment CD-ROM games. Humongous’ Junior Adventure series included hit series like _Putt-Putt_, _Spy Fox_ and _Freddi Fish_. Though aimed at young audiences, these games utilized similar structures to adult point-and-click games, such as inventories and object-based puzzles to gain access to gated areas (Clark.)
 
-# _Spy Fox: Operation Ozone_ In-Game Inventory
+**_Spy Fox: Operation Ozone_ In-Game Screen**
 ![Spy Fox Operation Ozone in-game screen](https://www.mobygames.com/images/shots/l/148809-spy-fox-operation-ozone-windows-screenshot-by-moving-the-cursor.png)
 
 In the late 1990s, point-and-click adventure games began to move away from their 2D graphics to a 3D style, and in 2001, LucasArts released its final adventure game, signaling the end of an era for the genre. Fans consider the 1980s and 90s the “Golden-Era” for point-and-click adventure games, especially pointing to the styles present in games like _The Secret of Monkey Island_. The early 2000s have been titled “the Dark Ages,” and the mid-2000s a nostalgic “Renaissance" (Kaser.) However, point-and-click adventure games have never returned to the level of cultural phenomenon they were in their golden years.
