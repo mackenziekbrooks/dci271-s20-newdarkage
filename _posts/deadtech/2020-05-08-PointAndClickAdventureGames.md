@@ -1,5 +1,8 @@
 ---
 published: false
+title: Point-and-Click Adventure Games
+author: Jenna Marvet
+tags: deadtech
 ---
 ## Point-and-Click Adventure Games
 ### By Jenna Marvet
