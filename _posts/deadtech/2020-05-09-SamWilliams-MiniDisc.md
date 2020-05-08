@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Layout: default
 Author: Sam Williams
 tags: deadtech
