@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
-	published: true
+
 
 ## The Sony Walkman: An Icon turned Dead Tech
 In the age of iPhones, Airpods, Apple Music, and Spotify, it is hard to imagine a time in which music is not immediately available. For $9.99 a month, we can have instant access to millions of songs from thousands of artists with one simple app. From there, technologies like Bluetooth allow us to play these songs anywhere: in our homes, cars, or at the park. We can share the music with large crowds or play it exclusively for ourselves. Before the age of iPhones and other portable music players, there was one device that was disrupting the music industry: the Sony Walkman. The Walkman was unique in the fact that it was the first widely used portable music device, and it allowed individuals to carry their favorite songs around in their pockets. The Walkman is the reason that the music landscape exists in its current form, and it has led to a number of crucial developments, some good (like streaming services), and some bad (like piracy). Regardless, music listening exists in a completely different form today, and the Walkman is the reason why.
@@ -37,5 +37,3 @@ This article gave a history of the life of the Walkman. Coming from Time, it is 
 
 Hayden, Erik. “Sony's Walkman Disappears With a Whimper.” The Atlantic, Atlantic Media Company, 26 Oct. 2013, www.theatlantic.com/technology/archive/2010/10/sony-s-walkman-disappears-with-a-whimper/343691/.
 This article talks about the demise and the end of the Walkman. Coming from the Atlantic, is it also reputable.
-	
-
