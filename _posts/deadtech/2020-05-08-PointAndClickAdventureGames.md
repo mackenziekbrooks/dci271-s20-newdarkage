@@ -15,12 +15,12 @@ Before there were video games, there were all-text games. Enter _Colossal Cave A
 Text adventures like _Colossal Cave Adventure_ laid the groundwork for future adventure computer games, such as point-and click adventure games. The main aspects that were adopted were the idea of a navigable space composed of combined rooms, characters which a player could interact with for brief conversations and the use of objects to give players access to new areas (Wolf, "MYST" 9.) These building blocks can be seen in adventure games throughout the following history. As technology evolved, so did computer games. Improvements in hardware, software, processing speed and memory made possible the evolution from text adventures, to graphic Atari 2600 adventure games, to photorealistic and 3D CD-ROM adventure games (Wolf, "Inventing Space" 12.) In fact, _Colossal Cave Adventure_ itself evolved into _Adventure_ for the Atari 2600 in 1978 (Jerz.)
 
 ## Atari 2600
-![Atari 2600 device](https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg)
+![Atari 2600 device](https://upload.wikimedia.org/wikipedia/commons/b/b9/Atari-2600-Wood-4Sw-Set.jpg)
 
 In 1987, Ron Gilbert and Aric Wilmunder created the Script Creation Utility for Maniac Mansion (SCUMM,) a story development system. _Maniac Mansion_ is a LucasArts graphic story game parodying bad horror movies in which players manipulate three teenagers to save "Sandy the Cheerleader" from a doctor controlled by an evil monster (Crockford.) SCUMM organized narrative elements “at the level of code within a database of discrete spaces.” The SCUMM framework allowed for a user-friendly narrativity connecting player actions with visual representations of story elements (Black 213.)
 
 Maniac Mansion Picture:
-![Maniac Mansion in-game screen](https://en.wikipedia.org/wiki/File:Maniac_Mansion.png)
+![Maniac Mansion in-game screen](https://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png)
 
 In essence, SCUMM is an assembly language which was created to abstract gameplay. Abstraction streamlines code and allows for increased ease of reusability (Dip.) Its reusability allowed for the creation of a number of other successful LucasArts computer adventure games for many years to follow such as _The Secret of Monkey Island_ and _Indiana Jones and the Fate of Atlantis_ (Cobbett.)
 
