@@ -3,7 +3,7 @@ published: true
 layout: default
 author: Ethan Bernstein
 tags: deadtech
-title: The Cassette Tape
+title: Cassette Tape
 ---
 
 
