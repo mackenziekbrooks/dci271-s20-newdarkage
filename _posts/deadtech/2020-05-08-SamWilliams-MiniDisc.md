@@ -1,5 +1,8 @@
 ---
 published: true
+Layout: default
+Author: Sam Williams
+tags: deadtech
 ---
 ## A New Post
 
