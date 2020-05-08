@@ -4,10 +4,6 @@ layout: default
 author: Nick Steinert
 tags: deadtech
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 Nick Steinert
 DCI 271 Spring Term
 Origins of the Home Gaming Console
@@ -38,20 +34,20 @@ Bibliography
 
 Loguidice, Bill, and Matt Barton. Vintage Game Consoles : an Inside Look at Apple, Atari, Commodore, Nintendo, and the Greatest Gaming Platforms of All Time . New York, [New York] ;: Focal Press, 2014.
 	
-	Vintage Game Consoles is written by two critically acclaimed authors, both of which spend lots of time around console collections and games. This source should help me get a good understanding of the early stages of gaming consoles, especially the transition from carnival games to the electronic arcade systems.
+Vintage Game Consoles is written by two critically acclaimed authors, both of which spend lots of time around console collections and games. This source should help me get a good understanding of the early stages of gaming consoles, especially the transition from carnival games to the electronic arcade systems.
 
 Monfort, Nick, and Ian Bogost. Racing the Beam: The Atari Video Computer System. MIT Press, 2009
 	
-    Nick Monfort is a professor of digital media at the Massachusetts Institute of Technology and is author to many books of computer-based literature. This book should give me in depth information about the company Atari and specifically the development of Pong.
+Nick Monfort is a professor of digital media at the Massachusetts Institute of Technology and is author to many books of computer-based literature. This book should give me in depth information about the company Atari and specifically the development of Pong.
 
 Langshaw, Mark. Magnavox Odyssey retrospective: How console gaming was born. Digital Spy. 13.12.1014.
 
-	This article was published on Digital Spy, which is a popular British based website dedicated to entertainment and media news. This article should give me good information about the Odyssey console and what its benefits and drawbacks were.
+This article was published on Digital Spy, which is a popular British based website dedicated to entertainment and media news. This article should give me good information about the Odyssey console and what its benefits and drawbacks were.
     
 Baer, Ralph. Genesis: How the Home Video Games Industry Began. Ralphbaer.com
 
-	This article was written by Ralph Baer himself, and should give me good insight into what he was thinking when he was developing the “Brown Box.” This is also a primary source which will give me direct insight into his life. 
+This article was written by Ralph Baer himself, and should give me good insight into what he was thinking when he was developing the “Brown Box.” This is also a primary source which will give me direct insight into his life. 
 
 Geffen, Haley, and Brandon Lisy. “Atari.(Nolan Bushnell)(Interview).” Bloomberg Businessweek 4406 (2014)
 
-	This interview with Nolan Bushnell will give me a primary source that involves the founder of Atari and the Pong gaming system. This source will be useful because it will give good insight into why Bushnell thought the transition to the home gaming system was a good area to pursue.
+This interview with Nolan Bushnell will give me a primary source that involves the founder of Atari and the Pong gaming system. This source will be useful because it will give good insight into why Bushnell thought the transition to the home gaming system was a good area to pursue.
