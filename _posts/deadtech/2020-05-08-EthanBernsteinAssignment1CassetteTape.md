@@ -1,5 +1,8 @@
 ---
 published: true
+layout: default
+author: Ethan Bernstein
+tags: deadtech
 ---
 
 
