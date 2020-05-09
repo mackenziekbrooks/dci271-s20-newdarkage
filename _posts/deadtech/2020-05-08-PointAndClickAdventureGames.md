@@ -20,7 +20,7 @@ Text adventures like _Colossal Cave Adventure_ laid the groundwork for future ad
 In 1987, Ron Gilbert and Aric Wilmunder created the Script Creation Utility for Maniac Mansion (SCUMM,) a story development system. _Maniac Mansion_ is a LucasArts graphic story game parodying bad horror movies in which players manipulate three teenagers to save "Sandy the Cheerleader" from a doctor controlled by an evil monster (Crockford.) SCUMM organized narrative elements “at the level of code within a database of discrete spaces.” The SCUMM framework allowed for a user-friendly narrativity connecting player actions with visual representations of story elements (Black 213.)
 
 **_Maniac Mansion_ In-Game Screen**
-![Maniac Mansion in-game screen](https://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png)
+![Maniac Mansion in-game screen]({{site.baseurl}}/https://www.horrorgeeklife.com/wp-content/uploads/2017/10/maniac-mansion.gif)
 
 In essence, SCUMM is an assembly language which was created to abstract gameplay. Abstraction streamlines code and allows for increased ease of reusability (Dip.) Its reusability allowed for the creation of a number of other successful LucasArts computer adventure games for many years to follow such as _The Secret of Monkey Island_ and _Indiana Jones and the Fate of Atlantis_ (Cobbett.)
 
