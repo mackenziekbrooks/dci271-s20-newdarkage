@@ -1,5 +1,8 @@
 ---
 published: true
+author: Blake Cote
+title: The Sony Walkman
+tags: deadtech
 ---
 Blake Cote
 Prof. Brooks
