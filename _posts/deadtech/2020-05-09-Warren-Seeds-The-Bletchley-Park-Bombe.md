@@ -21,10 +21,10 @@ Turing’s version of the Bombe (Fig. 2) was one of the very first milestones in
 
 The Turing Bombe is undoubtedly one of the most impressive feats of wartime technological development. An interesting thought I came across while researching this topic was the correlation between war and technological development. It is no wonder that much of the advances in technology are seen during times of war as both countries are funding the research of new technologies to give them an edge over their opponent. The moon landing was a result of the Cold War era “Space Race” between the United States and the USSR. Both countries were fearful of what might happen if their opponent were able to conquer the vast battlefield of space before they were able to themselves (History.com). It is interesting to ponder what kind of new technologies might emerge as the result of a future conflict between two countries.
 
-![Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg]({{site.baseurl}}/assets/images/Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg)
+![Enigma machine on display in Museo Scienza e Technologia in Milan, Italy.](https://upload.wikimedia.org/wikipedia/commons/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg)
 
 
-![Wartime_picture_of_a_Bletchley_Park_Bombe.jpg]({{site.baseurl}}/assets/images/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
+![A wartime picture of a Bletchley Park Bombe.](https://upload.wikimedia.org/wikipedia/commons/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
 
 Works Cited
 
