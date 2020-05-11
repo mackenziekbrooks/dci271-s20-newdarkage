@@ -181,7 +181,7 @@ Due
 Due
 {: .label .label-red }
 * Take any feedback from your classmates that is useful and update your Dead Tech essay. Essays should be done by 5pm EST. 
-* Prepare a question or two for our guests tomorrow. What do you want to know about energy use, sustainability, and technology at W&L? 
+* Prepare a question or two for our guests tomorrow and Wednesday. What do you want to know about energy use, sustainability, and technology at W&L? 
 
 Participate 
 {: .label .label-yellow }
@@ -201,7 +201,7 @@ Participate
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
 * Slack: Chapter 3 discussion question.
-* Zoom: Live class at 1pm EST with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
+* Zoom: Live class at 2:30pm EST with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
 
 Read/Watch
 {: .label .label-green }
