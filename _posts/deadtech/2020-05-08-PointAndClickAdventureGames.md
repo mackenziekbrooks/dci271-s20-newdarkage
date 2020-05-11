@@ -37,7 +37,15 @@ Around the same time in 1992, Ron Gilbert, one of the key creators of SCUMM, and
 **_Spy Fox: Operation Ozone_ In-Game Screen**
 ![Spy Fox Operation Ozone in-game screen](https://www.mobygames.com/images/shots/l/148809-spy-fox-operation-ozone-windows-screenshot-by-moving-the-cursor.png)
 
-In the late 1990s, point-and-click adventure games began to move away from their 2D graphics to a 3D style, and in 2001, LucasArts released its final adventure game, signaling the end of an era for the genre. Fans consider the 1980s and 90s the “Golden-Era” for point-and-click adventure games, especially pointing to the styles present in games like _The Secret of Monkey Island_. The early 2000s have been titled “the Dark Ages,” and the mid-2000s a nostalgic “Renaissance" (Kaser.) However, point-and-click adventure games have never returned to the level of cultural phenomenon they were in their golden years.
+In the late 1990s, point-and-click adventure games began to move away from their 2D graphics to a 3D style. By 2001, LucasArts had transitioned from the SCUMM engine and released its final adventure game, signaling the end of an era for the genre (Kaser.)
+
+**_Escape from Monkey Island_, LucasArts' final adventura game release**
+![Escape from Monkey Island Game Play](https://www.mobygames.com/images/shots/l/765098-escape-from-monkey-island-windows-screenshot-guybrush-and.jpg)
+
+Fans consider the 1980s and 90s the “Golden-Era” for point-and-click adventure games, especially pointing to the styles present in games like _The Secret of Monkey Island_. The early 2000s have been titled “the Dark Ages,” and the mid-2000s a nostalgic “Renaissance" (Kaser.) However, while point-and-click adventure games have never returned to the level of cultural phenomenon they were in their golden year, the aesthetic of their design seems to have been graphic growing pains while technology evolved.
+
+**_Syberia_ is concerned one of the few gems from the point-and-click adventure game "Dark Ages."**
+![Syberia Game Play](https://bigfishgames-a.akamaihd.net/en_syberia-part-1/screen1.jpg)
 
 When considering the demise of the point-and-click adventure game genre, one nostalgic fan explained that, while the games might be charming, they also can lead to infuriation. Because specific actions or clicks are required to move the plot forward, playing such games can lead to an endless spew of attempts at clicking the right pixel or using the right object without success (Jefferson.)
 
