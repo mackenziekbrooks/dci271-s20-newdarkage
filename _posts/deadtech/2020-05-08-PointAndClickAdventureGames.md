@@ -44,7 +44,7 @@ In the late 1990s, point-and-click adventure games began to move away from their
 
 Fans consider the 1980s and 90s the “Golden-Era” for point-and-click adventure games, especially pointing to the styles present in games like _The Secret of Monkey Island_. The early 2000s have been titled “the Dark Ages,” and the mid-2000s a nostalgic “Renaissance" (Kaser.) However, while point-and-click adventure games have never returned to the level of cultural phenomenon they were in their golden year, the aesthetic of their design seems to have been graphic growing pains while technology evolved.
 
-**_Syberia_ is concerned one of the few gems from the point-and-click adventure game "Dark Ages."**
+**_Syberia_ is concerned a gem from the point-and-click adventure game "Dark Ages."**
 ![Syberia Game Play](https://bigfishgames-a.akamaihd.net/en_syberia-part-1/screen1.jpg)
 
 When considering the demise of the point-and-click adventure game genre, one nostalgic fan explained that, while the games might be charming, they also can lead to infuriation. Because specific actions or clicks are required to move the plot forward, playing such games can lead to an endless spew of attempts at clicking the right pixel or using the right object without success (Jefferson.)
