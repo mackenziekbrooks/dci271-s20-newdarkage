@@ -4,7 +4,8 @@ layout: default
 author: Warren Seeds
 tag: deadtech
 ---
-## Let’s Get Cracking: The Bletchley Park Bombe
+# Let’s Get Cracking: The Bletchley Park Bombe
+### By Warren Seeds
 
 ---
 
