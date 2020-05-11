@@ -4,11 +4,6 @@ author: Blake Cote
 title: the Sony Walkman
 tags: deadtech
 ---
-Blake Cote
-Prof. Brooks
-05/06/20
-Word Count: 747
-The Sony Walkman
 
 The Sony Walkman was the first mode of listening to music privately and on the go. The Walkman was a portable cassette player that allowed people to listen wherever they went, as it was compactable and easy to bring along anywhere.While the Sony Walkman was discontinued in 2010, its influence still lives on today and will always be remembered as what sparked the idea of taking music everywhere, and people transforming from “listeners into users" (Hayden).
     
