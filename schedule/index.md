@@ -200,7 +200,13 @@ Read/Watch
 Participate 
 {: .label .label-yellow }
 * Slack: icebreaker of the day! 
-* Slack: Chapter 3 discussion question.
+* Slack: Chapter 3 discussion questions:
+	* What new thing did you learn about climate change? What do you want to look into further? 
+	* What can you do personally about climate change? What feels beyond your control? Why? Is there a step that you feel yourself resisting?
+	* What other hyperobjects can you think of? What are the effects you see from those hyperobjects? 
+	* What does “practical unknowing” mean to you?
+	* What questions do you have for our guests this week?
+
 * Zoom: Live class at 2:30pm EST with Kim Hodge and Jane Stewart from the Sustainability Office at W&L. 
 
 Read/Watch
@@ -210,7 +216,6 @@ Read/Watch
 ## Wednesday, May 13
 Read/Watch
 {: .label .label-green }
-* Canvas: watch chapter 5 lecture video
 * [Warning: Do Not Dig’: Negotiating the Visibility of Critical Infrastructures](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12srbpt/sage_s10_1177_1470412911430465)
 
 Participate 
@@ -219,15 +224,23 @@ Participate
 * Zoom: Live class with David Saacke at 1pm EST. 
 
 ## Thursday, May 14
+Read/Watch
+{: .label .label-green }
+* Canvas: watch chapter 5 lecture video
+
 Participate 
 {: .label .label-yellow }
-* Slack: icebreaker of the day! 
-* Zoom: office hours 1-4pm 
+* Slack: icebreaker of the day!
+* Chapter 5 discussion questions: 
+	* What do you think of this acceleration idea? Do you see that working or not working in certain areas? Where do see a gap in what technology could do to benefit others? 
+	* What have you learned so far in college about approaching complex ideas? Does Bridle’s recommendation work for you? Does it work for technology? 
+
+* Zoom: office hours 1-4pm to answer any questions about assignment #2.
 
 ## Friday, May 15
 Read/Watch
 {: .label .label-green }
-* Canvas: Assignment #3 Unessay video before Monday
+* Canvas: Watch Assignment #3 Unessay video before Monday
 * Read *New Dark Age* chap 10 over the weekend. Take a look at the other chapters we haven't read and choose at least one to read thoroughly. To help you decide:
 	* Chapter 4 - Big data, science, pharmacology
 	* Chapter 7 - government surveillance, intelligence
