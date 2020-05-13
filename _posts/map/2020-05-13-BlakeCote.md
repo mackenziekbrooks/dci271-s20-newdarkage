@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Blake Cote
 title: Map Assignment
 tags: map
@@ -22,4 +22,3 @@ vXchnge. “Chappaqua Edge Data Center: New York Colocation.” VXchnge, www.vxc
 Site #4- Wind Turbine Generator
 
 This Wind Turbine Generator is on my way to Rhode Island. I think wind turbine generators are a really interesting topic because I think it is so cool that they are able to turn mechanical energy into electrical energy. Except there is controversy with these turbines as some people feel that they are an eyesore. When placed in the bodies of water fishermen have complained that it ruins the fishing in that area, and there have also been cases of birds flying into the turbines. Brian Driscoll of Phoenix Press owns the land that the turbine is on, as well as the turbine itself. The people who receive clean energy from the turbine benefit, while others, like fishermen, may not be benefiting.
-
