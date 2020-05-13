@@ -1,7 +1,7 @@
 ---
 published: true
 author: Blake Cote
-title: Map Assignment
+title: 'Bedford, NY'
 tags: map
 ---
 Site #1- Solar Panels
