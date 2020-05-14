@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Annapolis, MD - Billy Linthicum'
+title: 'Annapolis, MD'
 author: Billy Linthicum
 tags: map
 ---
