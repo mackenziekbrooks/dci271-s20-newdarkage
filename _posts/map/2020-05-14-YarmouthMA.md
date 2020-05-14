@@ -19,3 +19,6 @@ There is a radio tower that I can see from the beach that I’ve always wondered
 Solar Farm
 
 
+This solar farm is one of the main solar sales companies near me in Cape Cod. I’ve never passed this place myself, however I’ve seen multiple houses with solar panels on them and knew that a company must’ve installed them and that’s how I came across the company called My Generation Energy. In addition to installing solar panels, the company also has community solar farms. While my house currently does not use solar power, I think it is very green  to use solar power and I commend the houses that do.  [The Company Website](https://www.mygenerationenergy.com/commercial/)
+##
+
