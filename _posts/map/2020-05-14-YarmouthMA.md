@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Author: Freddie Tobeason
 Title: 'Yarmouth, MA'
 Tags: map
