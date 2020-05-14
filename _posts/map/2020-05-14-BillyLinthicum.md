@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Annapolis, MD - Billy Linthicum'
 author: Billy Linthicum
 tags: map
@@ -15,4 +15,3 @@ This cell tower in Severna Park, MD is owned by AT&T. It provides cell service f
 
 **AiNET Data Center**
 The AiNET Data Center in Glen Burnie, MD is described as a “carrier hotel”. This data center provides services to house carriers in a single cabinet, caged space, or private suite in which to store data. AiNET built and owns the data center, however, it provides services to other companies to benefit from. Although this location is a little bit outside of my town, I have driven up this highway many times and never noticed that this data center existed, but it seems fairly important to the security of the surrounding area’s data.
-
