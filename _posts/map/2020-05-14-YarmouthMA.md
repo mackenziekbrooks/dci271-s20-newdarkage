@@ -1,8 +1,11 @@
 ---
-published: true
+published: false
 Author: Freddie Tobeason
 Title: 'Yarmouth, MA'
 Tags: map
+author: Freddie Tobeason
+title: 'Yarmouth, MA'
+tags: map
 ---
 ****Cape Cod Potato Chip Factory
 
