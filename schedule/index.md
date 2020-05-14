@@ -235,9 +235,15 @@ Participate
 	* What do you think of this acceleration idea? Do you see that working or not working in certain areas? Where do see a gap in what technology could do to benefit others? 
 	* What have you learned so far in college about approaching complex ideas? Does Bridle’s recommendation work for you? Does it work for technology? 
 
-* Zoom: office hours 1-4pm to answer any questions about assignment #2.
+
 
 ## Friday, May 15
+Participate 
+{: .label .label-yellow }
+* Slack: icebreaker of the day!
+* Zoom: office hours 1-4pm EST to answer any questions about assignment #2.
+
+
 Read/Watch
 {: .label .label-green }
 * Canvas: Watch Assignment #3 Unessay video before Monday
