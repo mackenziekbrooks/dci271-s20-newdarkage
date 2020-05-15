@@ -1,5 +1,8 @@
 ---
 published: false
+layout: default
+author: Warren Seeds
+tag: map
 ---
 #Atlanta, GA
 ###By Warren Seeds
