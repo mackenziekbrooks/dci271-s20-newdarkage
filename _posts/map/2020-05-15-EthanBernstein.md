@@ -2,6 +2,7 @@
 published: false
 title: Map
 author: Ethan Bernstein
+layout: default
 ---
 
 
