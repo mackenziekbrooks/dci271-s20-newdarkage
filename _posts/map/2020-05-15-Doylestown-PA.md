@@ -13,6 +13,9 @@ High Tension Wires
 
 I chose this site because I constantly noticed it as a kid. I had seen power lines before, but these were on an entire other level. They are high tension wires, and they transport electricity across the country. They operate at relatively high voltages. We often see electricity manifested in lights, TVs, etc. around our houses as these devices use electricity. But it is interesting to see the structures that transport electricity across the country. It is owned by PECO Energy. It is beneficial to everyone who uses the power transferred through it, however it may harm anyone who lives in close proximity to the lines, as they often lower property values and are associated with negative health effects.
 
+![IMG_1724.jpeg]({{site.baseurl}}/assets/images/IMG_1724.jpeg)
+
+
 Router
 
 It is mind-boggling that something as simple as a router is the connection between every device in my household and the rest of the world. This router acts as a modem router duo, so it is linked to our cable network via a cable jack and then subsequently broadcasts a Wi-Fi signal throughout our home. It is interesting to see the device where the internet, a seemingly invisible thing, originates in our home. The router was supplied by Verizon but is now owned by my family. It is beneficial to us because it connects us to the internet and enables us to have everything at our fingertips, and it also harms us in that same way.
@@ -21,9 +24,15 @@ Satellite Dish
 
 Instead of traditional cable, my neighbors are using a satellite dish to receive their television programs. The dish receives the signal via satellite transmission, relays the signals into a “box” connected to their TV, and they see their desired programs on the TV. It is interesting to see that a simple device attached to the outside of their house relays hundreds of channels to their TV inside. I would assume that they own the dish, and I cannot determine which company originally supplied it as it is now unmarked. It is beneficial to them as it is their source of television programs but can also harm them as this method of receiving TV service is usually less reliable and tends to “go out” in inclement weather more often than traditional cable.
 
+![IMG_1730.jpeg]({{site.baseurl}}/assets/images/IMG_1730.jpeg)
+
+
 Sky Box Cloud IT Services
 
 This is a company located close to my house, and I have wondered what they have done for years, but never looked it up. Now, I finally understand that they provide Cloud IT services for small businesses. Their services include hosted email, file services, shared calendars, phone services, and more. Seeing the physical location of a company that provides the behind the scenes software solutions for small businesses is very interesting. I would assume that the company owns this building, and they benefit the small businesses who receive their services.
+
+![IMG_1725.jpeg]({{site.baseurl}}/assets/images/IMG_1725.jpeg)
+
 
 Car Antenna
 
