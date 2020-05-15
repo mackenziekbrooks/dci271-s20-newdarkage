@@ -1,7 +1,7 @@
 ---
 published: true
 author: Ryan Kempske
-tags: Map
+tags: map
 title: 'Material Technology in Ocean City, Md.'
 ---
 ## A New Post
