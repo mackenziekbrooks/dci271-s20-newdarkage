@@ -17,7 +17,7 @@ Google Maps
 
 **Site #2 - Dominion Energy at 1719 Hydraulic Rd**
 
-I know of this site because I drive by it all the time when I am driving up Rt 29. I selected it because Dominion Energy is an important power source for residents all throughout Virginia and other states. The Land is owned by the energy company, Virginia Electric and Power Company, and is used for maintenance purposes. I was unable to find a picture of it, but below is a pictures from Google Map’s street view. You can see the large cell tower in the back of the photo, which also belongs to them.
+I know of this site because I drive by it all the time when I am driving up Rt 29. I selected it because Dominion Energy is an important power source for residents all throughout Virginia and other states. The land is owned by the energy company, Virginia Electric and Power Company, and is used for maintenance purposes. I was unable to find a picture of it, but below is a picture from Google Map’s street view. You can see the large cell tower in the back of the photo, which also belongs to them.
 
 ![Dominion.png]({{site.baseurl}}/assets/images/Dominion.png)
 
@@ -26,7 +26,7 @@ Google Maps
  
 **Site #3 - UVA Data Center – Carruthers Hall**
 
-I drive by Carruthers Hall very frequently as it is across from a big shopping center. I chose it because I know that the Carruthers Data Center is housed there, and it reminded me of our center on campus that we took a tour of. It was recently renovated and helps support the IT infrastructure of the large university. It contains various servers and gear that help maintain the computing capabilities of UVA. The land and building is owned by UVA and it also houses Student Financial Services. This data center benefits all who are within the computing realm of the University. It may not serve a purpose to members who are not in the university community, but it is still very important. I found more information by navigating to the main UVA website and searching data centers. 
+I drive by Carruthers Hall very frequently as it is across from a big shopping center. I chose it because I know that the Carruthers Data Center is housed there, and it reminded me of our center on campus that we took a tour of. It was recently renovated and helps support the IT infrastructure of the large university. It contains various servers and gear that helps maintain the computing capabilities of UVA. The land and building is owned by UVA and it also houses Student Financial Services. This data center benefits all who are within the computing realm of the University. It may not serve a purpose to members who are not in the university community, but it is still very important. I found more information by navigating to the main UVA website and searching data centers. 
 
 ![Data Center.png]({{site.baseurl}}/assets/images/Data Center.png)
 
