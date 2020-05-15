@@ -4,9 +4,9 @@ layout: default
 author: Madison Williams
 tags: map
 ---
-**### Charlottesville, VA - Madison Williams
+**### Charlottesville, VA - Madison Williams**
 
-Site #1 - United States Cellular Corp. Cell Tower on top of Carter’s Mountain**
+**Site #1 - United States Cellular Corp. Cell Tower on top of Carter’s Mountain**
 
 There are many cell towers on top of Carter’s Mountain that are visible from all over town, however I chose this one because it has to do with cellular technology. The cell tower helps form a cellular network and is important in maintaining service. The technology in play is the equipment that transmits signals and creates electronic communications. The land is owned by Carter’s Mountain Community Tower, and therefore is a part of the Crown Orchard monopoly (or so I believe). This cell tower benefits anyone who uses US Cellular and does not benefit any other competitors who want to have a tower on the mountain. I found out more information by going to the US Cellular site and found all kinds of specifications about this specific tower. I was unable to find a picture of that part of Carter’s Mountain, but here is a screenshot from the map. 
 
