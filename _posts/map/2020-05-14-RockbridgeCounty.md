@@ -7,8 +7,9 @@ tags: map
 
 **Site #1: Solar Panels**
 
-Lylburn-Downing Middle School in Rockbridge county generates electric power from solar panels installed above their gymnasium and cafeteria. These solar panels generate 25% of the school’s annual electricity requirements and save the school district $3,800 per year. Not only does this benefit the school, but the production of solar panels creates jobs for engineers and local electricians. The school plans on installing a solar picnic table in their courtyard to give the students a more hands-on experience with solar panels as they will be able to charge their phones from the table. 
-![]({{site.baseurl}}/assets/images/Solar%2BPanel%20lylburn%20downing%20middle%20school.jpg)![Solar+Panel lylburn downing middle school.jpg]({{site.baseurl}}/assets/images/Solar+Panel lylburn downing middle school.jpg)
+Lylburn-Downing Middle School in Rockbridge county generates electric power from solar panels installed above their gymnasium and cafeteria. These solar panels generate 25% of the school’s annual electricity requirements and save the school district $3,800 per year. Not only does this benefit the school, but the production of solar panels creates jobs for engineers and local electricians. The school plans on installing a solar picnic table in their courtyard to give the students a more hands-on experience with solar panels as they will be able to charge their phones from the table.
+
+![]({{site.baseurl}}/assets/images/Solar%2BPanel%20lylburn%20downing%20middle%20school.jpg)![Screen Shot 2020-05-14 at 2.54.51 PM.png]
 
 
 **Site #2: Cell Tower**
