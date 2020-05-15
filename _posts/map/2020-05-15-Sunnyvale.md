@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sunnyvale
 author: Jenna Marvet
 tags: map
