@@ -2,7 +2,7 @@
 published: true
 author: Ryan Kempske
 tags: map
-title: 'Material Technology in Ocean City, Md.'
+title: Material Technology in Ocean City Md
 ---
 ## A New Post
 ![Substation.jpeg]({{site.baseurl}}/assets/images/Substation.jpeg)
