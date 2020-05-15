@@ -3,6 +3,7 @@ published: true
 title: 'Bethlehem, PA'
 author: Ethan Bernstein
 layout: default
+tags: map
 ---
 
 
