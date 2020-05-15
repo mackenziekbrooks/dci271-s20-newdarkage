@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: default
 author: Nick Steinert
 tags: maps
