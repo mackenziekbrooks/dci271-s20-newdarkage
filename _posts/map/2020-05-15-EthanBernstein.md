@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Map
 author: Ethan Bernstein
 layout: default
@@ -25,4 +25,3 @@ Fiber Optic Box on a Telephone Pole in my Neighborhood: I noticed this fiber opt
 Transformer Hub on Hickory Hill: I noticed this transformer hub many years ago, as it is located on a road just a couple miles from my house. Transformers convert high voltage power into lower voltage power that can be utilized in houses. The electric company owns this transformer hub, and the homeowners who pay for electricity in the area are being serviced. The electric company benefits because they obtain profits from the homeowners paying their electric bills, and homeowners get working house current in exchange, so both parties benefit.
 
 ![]({{site.baseurl}}/assets/images/IMG_9211.JPG)
- 
