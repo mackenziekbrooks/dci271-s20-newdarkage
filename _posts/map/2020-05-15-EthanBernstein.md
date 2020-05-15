@@ -1,6 +1,6 @@
 ---
 published: true
-title: Map
+title: 'Bethlehem, PA'
 author: Ethan Bernstein
 layout: default
 ---
