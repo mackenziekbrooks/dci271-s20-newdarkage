@@ -1,5 +1,8 @@
 ---
 published: false
+author: Ryan Kempske
+tags: Map
+title: 'Material Technology in Ocean City, Md'
 ---
 ## A New Post
 ![Substation.jpeg]({{site.baseurl}}/assets/images/Substation.jpeg)
