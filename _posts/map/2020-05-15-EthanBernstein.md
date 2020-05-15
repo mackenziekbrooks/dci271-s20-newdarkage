@@ -9,9 +9,6 @@ Bethlehem Steel: This site stood out to me because it is perhaps the most iconic
 
  ![bethlehem steel.jpg]({{site.baseurl}}/assets/images/bethlehem steel.jpg)
 
-![IMG_9202.JPG]({{site.baseurl}}/assets/images/IMG_9202.JPG)
-![IMG_9207.JPG]({{site.baseurl}}/assets/images/IMG_9207.JPG)
-![IMG_9211.JPG]({{site.baseurl}}/assets/images/IMG_9211.JPG)
 Stoplight Sensor on Route 378: I noticed this site when this stoplight was renovated a few years ago. I noticed how after the renovation, the light would turn green very shortly after I pulled up to the intersection to cross the highway. I realized that it was an electronic motion sensor that was added that facilitates the color of the traffic light when it senses a vehicle, rather than a simple timing mechanism. The township where I live, Lower Saucon Township, owns the traffic light and its motion detector, and any driver travelling through this intersection in the township is being serviced by this technology. Drivers and pedestrians both benefit since this motion sensor makes waiting at a stoplight more efficient while still ensuring the safety of those using the road.
 
  ![]({{site.baseurl}}/assets/images/IMG_9215.JPG)![IMG_9215.JPG]({{site.baseurl}}/assets/images/IMG_9215.JPG)
