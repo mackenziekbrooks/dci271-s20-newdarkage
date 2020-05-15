@@ -3,7 +3,7 @@ published: true
 layout: default
 author: Christian Hanna
 tags: map
-title: 'Doylesyown, PA'
+title: 'Doylestown, PA'
 ---
 ## A New Post
 Map of Doylestown, PA
@@ -27,5 +27,4 @@ This is a company located close to my house, and I have wondered what they have 
 
 Car Antenna
 
-In older cars, antenna used to be fairly unattractive: they were long, and car manufacturers did little to disguise them. Also, they often only received AM and FM radio. Now, as technology and car design has progressed, these antennas are much more attractive, and transmit significantly more data. On this specific car, the antenna receives AM, FM, satellite radio, navigation services, weather forecasts, news updates, and internet connectivity. It is crazy to think that this small, fairly unnoticeable device can receive so much data when not too long ago, car antennas were much bigger and much less useful. My parents own this antenna as they own the car, and it benefits them because they can receive a lot of useful information inside the car. It can also harm them because this abundance of information can serve as a distraction while driving. 
-
+In older cars, antenna used to be fairly unattractive: they were long, and car manufacturers did little to disguise them. Also, they often only received AM and FM radio. Now, as technology and car design has progressed, these antennas are much more attractive, and transmit significantly more data. On this specific car, the antenna receives AM, FM, satellite radio, navigation services, weather forecasts, news updates, and internet connectivity. It is crazy to think that this small, fairly unnoticeable device can receive so much data when not too long ago, car antennas were much bigger and much less useful. My parents own this antenna as they own the car, and it benefits them because they can receive a lot of useful information inside the car. It can also harm them because this abundance of information can serve as a distraction while driving.
