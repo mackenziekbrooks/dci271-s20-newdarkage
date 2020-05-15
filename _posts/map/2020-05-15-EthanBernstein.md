@@ -13,7 +13,7 @@ Bethlehem Steel: This site stood out to me because it is perhaps the most iconic
 
 Stoplight Sensor on Route 378: I noticed this site when this stoplight was renovated a few years ago. I noticed how after the renovation, the light would turn green very shortly after I pulled up to the intersection to cross the highway. I realized that it was an electronic motion sensor that was added that facilitates the color of the traffic light when it senses a vehicle, rather than a simple timing mechanism. The township where I live, Lower Saucon Township, owns the traffic light and its motion detector, and any driver travelling through this intersection in the township is being serviced by this technology. Drivers and pedestrians both benefit since this motion sensor makes waiting at a stoplight more efficient while still ensuring the safety of those using the road.
 
- ![]({{site.baseurl}}/assets/images/IMG_9215.JPG)![IMG_9215.JPG]({{site.baseurl}}/assets/images/IMG_9215.JPG)
+ ![]({{site.baseurl}}/assets/images/IMG_9215.JPG)
 
 Fiber Optic Box on a Telephone Pole in my Neighborhood: I noticed this fiber optic box when it was installed a few years back. There is usually a green light on the outside of the box indicating that our Internet is functional, but when the Internet connection at my house is interrupted, the color turns to red. Verizon owns the fiber optic box, since that is where we get our Internet from, and my family is being serviced. 
 
