@@ -15,7 +15,7 @@ This unassuming building is a fulfillment center for Amazon Prime Now, a service
 ## Chargepoint Charging Station
 Chargepoint has a network of public electric vehicle charging stations with many located in Sunnyvale and the surrounding area. Users can sign up for Chargepoint and download the app to find available spots, prices and charging speeds as well as pay for their charge. Chargepoint uses cloud-based software to run its charging stations. I find electric vehicle charging interesting, because it makes me wonder how environmentally burdensome it really is. I also wonder if users are required to utilize the app, and if Chargepoint accesses and sells user location data.
 
-![Car plugged into charging spot](https://photos.plugshare.com/photos/166000.jpg)
+![Charging parking spots](https://photos.plugshare.com/photos/166000.jpg)
 
 ## Joshua Hendy Iron Works
 Hendy Iron Works is located right in Sunnyvale and represents a storied past of technological developments. It is most known for contributing to shipbuilding technologies in World War II, but prior, Ironworks was known for its mining innovations. Iron Works was sold after the war, and then again in 1996 to Northrop Grumman Marine Systems, which is also located in Sunnyvale today. This spot is particularly interesting because it shows a technological history of Silicon Valley beyond microchips and telecommunications. It also happens to be the namesake of my apartment building!
