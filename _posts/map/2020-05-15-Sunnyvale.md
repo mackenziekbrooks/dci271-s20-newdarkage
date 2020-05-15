@@ -22,7 +22,7 @@ Hendy Iron Works is located right in Sunnyvale and represents a storied past of 
 
 ![Outside of Ironworks building](https://upload.wikimedia.org/wikipedia/commons/0/06/Joshua_Hendy_Iron_Works_museum.jpg)
 
-## Moffett Federal Airfield**
+## Moffett Federal Airfield
 This land was originally sold to the U.S. Navy by Sunnyvale in 1930. Through the years, control of the airfield changed, and after the Cold War, it became the NASA Ames Research Center. In 2014, NASA announced it would lease 1,000 acres of the air field to Google for 60 years. It is also frequently utilized by the California Air National Guard, whose planes I often hear flying by. This site is incredibly interesting because, while it represents past technological achievements of the military, it also represents the future of a big technology company.
 
 ![Satellite view of airfield](https://upload.wikimedia.org/wikipedia/commons/2/2e/Kluft-photo-Moffett-Federal-Airfield-Oct-2008-Img_1911.jpg)
