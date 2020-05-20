@@ -288,7 +288,11 @@ Read/Watch
 
 Participate 
 {: .label .label-yellow }
+* Slack: icebreaker of the day
 * Slack: chapter 10 discussion questions 
+	* Where are you at the end of this book? Still optimistic? 
+	* What do you want to be a guardian of? 
+
 
 ## Thursday, May 21
 
@@ -298,6 +302,12 @@ Participate
 * Slack: Share your progress so far with your classmates. We'll do some gentle and encouraging peer review. 
 
 ## Friday, May 22 
+
+Participate 
+{: .label .label-yellow }
+* I'd love your feedback on how this course went via our[course evaluation](https://forms.gle/25pFxgX6WfLHRbz9A). 
+* Slack: final thoughts on chapter 10 and your Unessays 
+* Zoom: Unessay presentations at 1pm. If you can't attend, please share your Unessay in Slack. 
 
 Due
 {: .label .label-red }

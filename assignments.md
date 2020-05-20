@@ -86,8 +86,10 @@ Feeling uninspired? Check out these [examples](https://s18tot.ryancordell.org/as
 ## Specs: 
 * You are free to choose a topic on whatever interests or inspires you - the only limit is that it should be a new metaphor for technology. 
 * You are free to present it in any way you please. My advice: work in a medium that excites you! If you like to paint, or draw, or collage - do it! If you like making videos or audio content - go for it! Board game? Paint by number? Sculpture? 
-* However, you must be able to capture your product in a way that can be experienced virtually and shared with the class. This can be through photos, video, audio, etc. Post your results on the course website as you've done for previous assignments, using the tag "unessay."
-* Turn in a link to your essay on Canvas for feedback. 
+* However, you must be able to capture your product in a way that can be experienced virtually and shared with the class. This can be through photos, video, audio, etc. Post your results on the course website as you've done for previous assignments, using the tag "unessay." 
+* Since normally I'd ask you to present your work in class, please provide a paragraph of explanation on your website post. Think about this as an artist's statement for your work. It should set some context for your work and describe your motivations for choosing this new metaphor.
+* There is a section in YuJa/Canvas to upload your unessays if it's in a file format that doesn't translate easily to the course website.
+* Turn in a link to your unessay post on Canvas for feedback. 
 
 Due Friday 5/21 at 5:00pm EST
 {: .label .label-red }
