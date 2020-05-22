@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 title: Smartphone Unessay
 author: Ethan Bernstein
 tags: unessay
+layout: default
 ---
 
 Link to my presentation via YuJa: https://wlu.yuja.com/V/MediaFile?mediaFile=95819&node=4303565&a=1520893129&autoplay=1
