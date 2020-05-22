@@ -4,7 +4,7 @@ layout: default
 author: Warren Seeds
 tags: unessay
 ---
-# Warren Seeds Unessay Artist Statement
+# Warren Seeds Unessay and Artist Statement
 ## Smart Appliances: How Smart Are They?
 
 ---
