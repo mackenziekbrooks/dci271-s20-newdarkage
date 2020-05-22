@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Freddie Tobeason
 title: Dune Stacks
 tags: unessay
