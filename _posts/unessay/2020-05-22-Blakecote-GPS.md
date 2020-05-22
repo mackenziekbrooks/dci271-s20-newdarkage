@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Blake Cote
 title: GPS a game of Pinball
 tags: unessay
