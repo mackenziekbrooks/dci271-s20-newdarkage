@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Blind Trust Unessay
 author: Billy Linthicum
 tag: unessay
@@ -11,4 +11,3 @@ I chose to do my unessay about machine learning and algorithms. I thought the Co
 My "Blind Trust" video is in the Unessay section of Yuja.
 
 [Blind Trust Unessay Video](https://wlu.instructure.com/courses/2597/external_tools/76)
-
