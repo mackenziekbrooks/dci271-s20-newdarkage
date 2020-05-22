@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Smartphone Unessay
 author: Ethan Bernstein
 tags: unessay
