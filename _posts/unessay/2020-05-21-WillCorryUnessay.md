@@ -3,6 +3,7 @@ published: true
 Title: The Metaphor of Instagram
 Author: Will Corry
 Tags: unessay
+tag: unessay
 ---
 ## A New Post!![]({{site.baseurl}}/assets/images/Corry%20DCI%20271%20Unessay%20.jpg)![Corry DCI 271 Unessay 2.jpg]({{site.baseurl}}/assets/images/Corry DCI 271 Unessay 2.jpg)
 ![Corry DCI 271 Unessay 3.jpg]({{site.baseurl}}/assets/images/Corry DCI 271 Unessay 3.jpg)
