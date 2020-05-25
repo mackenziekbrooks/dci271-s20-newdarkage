@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: The Metaphor of Instagram
 Author: Will Corry
 Tags: unessay
